@@ -70,3 +70,8 @@ du fichier produit on retrouve exactement le texte AKJV d'origine
 Couverture : 26 997 des 26 998 mots italiques KJV retrouvés dans l'AKJV
 (le seul écart, `[but]` en 1 Jn 2:23, est un ajout de traducteur supprimé
 par l'AKJV, donc absent du verset).
+
+## Voir aussi
+
+L'étape suivante (`3. saith to says/saith_to_says.py`) remplace les
+« said » de l'AKJV qui correspondent à un « saith » de la KJV par « says ».
