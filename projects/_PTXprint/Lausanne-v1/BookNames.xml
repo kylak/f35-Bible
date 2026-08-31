@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookNames>
+  <book code="GEN" long="Genèse" short="Genèse" abbr="Gn"/>
+  <book code="EXO" long="Exode" short="Exode" abbr="Ex"/>
+  <book code="LEV" long="Lévitique" short="Lévitique" abbr="Lv"/>
+  <book code="NUM" long="Nombres" short="Nombres" abbr="Nb"/>
+  <book code="DEU" long="Deutéronome" short="Deutéronome" abbr="Dt"/>
+  <book code="JOS" long="Josué" short="Josué" abbr="Jos"/>
+  <book code="JDG" long="Juges" short="Juges" abbr="Jg"/>
+  <book code="RUT" long="Ruth" short="Ruth" abbr="Rt"/>
+  <book code="1SA" long="1 Samuel" short="1 Samuel" abbr="1S"/>
+  <book code="2SA" long="2 Samuel" short="2 Samuel" abbr="2S"/>
+  <book code="1KI" long="1 Rois" short="1 Rois" abbr="1R"/>
+  <book code="2KI" long="2 Rois" short="2 Rois" abbr="2R"/>
+  <book code="1CH" long="1 Chroniques" short="1 Chroniques" abbr="1Ch"/>
+  <book code="2CH" long="2 Chroniques" short="2 Chroniques" abbr="2Ch"/>
+  <book code="EZR" long="Esdras" short="Esdras" abbr="Esd"/>
+  <book code="NEH" long="Néhémie" short="Néhémie" abbr="Né"/>
+  <book code="EST" long="Esther" short="Esther" abbr="Est"/>
+  <book code="JOB" long="Job" short="Job" abbr="Jb"/>
+  <book code="PSA" long="Psaumes" short="Psaumes" abbr="Ps"/>
+  <book code="PRO" long="Proverbes" short="Proverbes" abbr="Pr"/>
+  <book code="ECC" long="Ecclésiaste" short="Ecclésiaste" abbr="Ec"/>
+  <book code="SNG" long="Cantique des cantiques" short="Cantique des cantiques" abbr="Ct"/>
+  <book code="ISA" long="Ésaïe" short="Ésaïe" abbr="Es"/>
+  <book code="JER" long="Jérémie" short="Jérémie" abbr="Jr"/>
+  <book code="LAM" long="Lamentations" short="Lamentations" abbr="Lm"/>
+  <book code="EZK" long="Ézéchiel" short="Ézéchiel" abbr="Ez"/>
+  <book code="DAN" long="Daniel" short="Daniel" abbr="Dn"/>
+  <book code="HOS" long="Osée" short="Osée" abbr="Os"/>
+  <book code="JOL" long="Joël" short="Joël" abbr="Jl"/>
+  <book code="AMO" long="Amos" short="Amos" abbr="Am"/>
+  <book code="OBA" long="Abdias" short="Abdias" abbr="Ab"/>
+  <book code="JON" long="Jonas" short="Jonas" abbr="Jon"/>
+  <book code="MIC" long="Michée" short="Michée" abbr="Mi"/>
+  <book code="NAM" long="Nahum" short="Nahum" abbr="Na"/>
+  <book code="HAB" long="Habakuk" short="Habakuk" abbr="Ha"/>
+  <book code="ZEP" long="Sophonie" short="Sophonie" abbr="So"/>
+  <book code="HAG" long="Aggée" short="Aggée" abbr="Ag"/>
+  <book code="ZEC" long="Zacharie" short="Zacharie" abbr="Za"/>
+  <book code="MAL" long="Malachie" short="Malachie" abbr="Ml"/>
+  <book code="MAT" long="Matthieu" short="Matthieu" abbr="Mt"/>
+  <book code="MRK" long="Marc" short="Marc" abbr="Mc"/>
+  <book code="LUK" long="Luc" short="Luc" abbr="Lc"/>
+  <book code="JHN" long="Jean" short="Jean" abbr="Jn"/>
+  <book code="ACT" long="Actes" short="Actes" abbr="Ac"/>
+  <book code="ROM" long="Romains" short="Romains" abbr="Rm"/>
+  <book code="1CO" long="1 Corinthiens" short="1 Corinthiens" abbr="1Co"/>
+  <book code="2CO" long="2 Corinthiens" short="2 Corinthiens" abbr="2Co"/>
+  <book code="GAL" long="Galates" short="Galates" abbr="Ga"/>
+  <book code="EPH" long="Éphésiens" short="Éphésiens" abbr="Ep"/>
+  <book code="PHP" long="Philippiens" short="Philippiens" abbr="Ph"/>
+  <book code="COL" long="Colossiens" short="Colossiens" abbr="Col"/>
+  <book code="1TH" long="1 Thessaloniciens" short="1 Thessaloniciens" abbr="1Th"/>
+  <book code="2TH" long="2 Thessaloniciens" short="2 Thessaloniciens" abbr="2Th"/>
+  <book code="1TI" long="1 Timothée" short="1 Timothée" abbr="1Tm"/>
+  <book code="2TI" long="2 Timothée" short="2 Timothée" abbr="2Tm"/>
+  <book code="TIT" long="Tite" short="Tite" abbr="Tt"/>
+  <book code="PHM" long="Philémon" short="Philémon" abbr="Phm"/>
+  <book code="HEB" long="Hébreux" short="Hébreux" abbr="Hé"/>
+  <book code="JAS" long="Jacques" short="Jacques" abbr="Jc"/>
+  <book code="1PE" long="1 Pierre" short="1 Pierre" abbr="1P"/>
+  <book code="2PE" long="2 Pierre" short="2 Pierre" abbr="2P"/>
+  <book code="1JN" long="1 Jean" short="1 Jean" abbr="1Jn"/>
+  <book code="2JN" long="2 Jean" short="2 Jean" abbr="2Jn"/>
+  <book code="3JN" long="3 Jean" short="3 Jean" abbr="3Jn"/>
+  <book code="JUD" long="Jude" short="Jude" abbr="Jude"/>
+  <book code="REV" long="Apocalypse" short="Apocalypse" abbr="Ap"/>
+  <book code="XXA" long="Note de l'éditeur" short="Note de l'éditeur" abbr="Note"/>
+  <book code="XXB" long="Page de titre" short="Titre" abbr="Titre
+"/>
+  <book code="FRT" long="Note de l'éditeur" short="Note de l'éditeur" abbr="Note"/>
+</BookNames>

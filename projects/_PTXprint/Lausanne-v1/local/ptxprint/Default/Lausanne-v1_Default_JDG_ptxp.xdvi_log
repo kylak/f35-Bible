@@ -1,0 +1,31 @@
+<FONTMAP:/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map><FONTMAP:/var/lib/texmf/fonts/map/dvipdfmx/updmap/kanjix.map><FONTMAP:/usr/share/texlive/texmf-dist/fonts/map/dvipdfmx/ckx.map>DVI Comment: "date=2026-08-10T13:12:30.707744 ptxprint_version=3.0.17 run=2"
+Lausanne-v1_Default_JDG_ptxp.xdv -> /work/projects/_PTXprint/Lausanne-v1/local/ptxprint/Default/../Lausanne-v1_Default_JDG_ptxp.pdf
+<AGL:texglyphlist.txt><AGL:pdfglyphlist.txt><AGL:glyphlist.txt>[1(Image:/work/projects/_PTXprint/Lausanne-v1/local/ptxprint/Default/../page-de-titre.pdf[PDF],Page:1)][2</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf@12.79pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Bold)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0,1>.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf@10.96pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Regular)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf/0/H/65536/0/0,3>.
+>][3</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf@18.26pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0" (enc_id=0) found at id=1.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf@27.48pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf/0/H/65536/0/0" (enc_id=0) found at id=3.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf@8.22pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf/0/H/65536/0/0" (enc_id=0) found at id=3.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf@10.96pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Italic)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0,5>.
+>][4</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf@9.13pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0" (enc_id=0) found at id=1.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf@9.13pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0" (enc_id=0) found at id=5.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf@9.13pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf/0/H/65536/0/0" (enc_id=0) found at id=3.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf@6.85pt
+pdf_font>> Font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf/0/H/65536/0/0" (enc_id=0) found at id=3.
+>][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26][27][28][29][30][31][32][33][34][35][36][37][38][39][40][41][42][43][44][45][46][Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf"...
+[Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf"...
+[Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf"...
+:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf[CIDFontType0]:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf[CIDFontType0]:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf[CIDFontType0]
+Compression saved 600648 bytes
+333254 bytes written

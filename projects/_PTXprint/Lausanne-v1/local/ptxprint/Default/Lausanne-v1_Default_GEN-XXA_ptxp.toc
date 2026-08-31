@@ -1,0 +1,666 @@
+\defTOC{main}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+\doTOCline{XXA}{Note de l'éditeur}{}{}{1924}
+}
+\defTOC{ot}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+}
+\defTOC{nt}{
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+}
+\defTOC{dc}{
+}
+\defTOC{pre}{
+}
+\defTOC{post}{
+\doTOCline{XXA}{Note de l'éditeur}{}{}{1924}
+}
+\defTOC{heb}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+}
+\defTOC{bible}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+}
+\defTOC{sorta}{
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{XXA}{Note de l'éditeur}{}{}{1924}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+}
+\defTOC{biba}{
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+}
+\defTOC{sortb}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+\doTOCline{XXA}{Note de l'éditeur}{}{}{1924}
+}
+\defTOC{bibb}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+}
+\defTOC{sortc}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+\doTOCline{XXA}{Note de l'éditeur}{}{}{1924}
+}
+\defTOC{bibc}{
+\doTOCline{GEN}{Genèse}{}{}{1}
+\doTOCline{EXO}{Exode}{}{}{89}
+\doTOCline{LEV}{Lévitique}{}{}{162}
+\doTOCline{NUM}{Nombres}{}{}{217}
+\doTOCline{DEU}{Deutéronome}{}{}{293}
+\doTOCline{JOS}{Josué}{}{}{361}
+\doTOCline{JDG}{Juges}{}{}{404}
+\doTOCline{RUT}{Ruth}{}{}{448}
+\doTOCline{1SA}{1 Samuel}{}{}{454}
+\doTOCline{2SA}{2 Samuel}{}{}{512}
+\doTOCline{1KI}{1 Rois}{}{}{558}
+\doTOCline{2KI}{2 Rois}{}{}{616}
+\doTOCline{1CH}{1 Chroniques}{}{}{669}
+\doTOCline{2CH}{2 Chroniques}{}{}{719}
+\doTOCline{EZR}{Esdras}{}{}{781}
+\doTOCline{NEH}{Néhémie}{}{}{799}
+\doTOCline{EST}{Esther}{}{}{825}
+\doTOCline{JOB}{Job}{}{}{838}
+\doTOCline{PSA}{Psaumes}{}{}{884}
+\doTOCline{PRO}{Proverbes}{}{}{997}
+\doTOCline{ECC}{Ecclésiaste}{}{}{1042}
+\doTOCline{SNG}{Cantique des cantiques}{}{}{1057}
+\doTOCline{ISA}{Ésaïe}{}{}{1065}
+\doTOCline{JER}{Jérémie}{}{}{1152}
+\doTOCline{LAM}{Lamentations}{}{}{1251}
+\doTOCline{EZK}{Ézéchiel}{}{}{1261}
+\doTOCline{DAN}{Daniel}{}{}{1350}
+\doTOCline{HOS}{Osée}{}{}{1377}
+\doTOCline{JOL}{Joël}{}{}{1390}
+\doTOCline{AMO}{Amos}{}{}{1395}
+\doTOCline{OBA}{Abdias}{}{}{1405}
+\doTOCline{JON}{Jonas}{}{}{1407}
+\doTOCline{MIC}{Michée}{}{}{1411}
+\doTOCline{NAM}{Nahum}{}{}{1419}
+\doTOCline{HAB}{Habakuk}{}{}{1423}
+\doTOCline{ZEP}{Sophonie}{}{}{1427}
+\doTOCline{HAG}{Aggée}{}{}{1431}
+\doTOCline{ZEC}{Zacharie}{}{}{1434}
+\doTOCline{MAL}{Malachie}{}{}{1449}
+\doTOCline{MAT}{Matthieu}{}{}{1454}
+\doTOCline{MRK}{Marc}{}{}{1513}
+\doTOCline{LUK}{Luc}{}{}{1550}
+\doTOCline{JHN}{Jean}{}{}{1612}
+\doTOCline{ACT}{Actes}{}{}{1658}
+\doTOCline{ROM}{Romains}{}{}{1719}
+\doTOCline{1CO}{1 Corinthiens}{}{}{1746}
+\doTOCline{2CO}{2 Corinthiens}{}{}{1771}
+\doTOCline{GAL}{Galates}{}{}{1788}
+\doTOCline{EPH}{Éphésiens}{}{}{1797}
+\doTOCline{PHP}{Philippiens}{}{}{1806}
+\doTOCline{COL}{Colossiens}{}{}{1813}
+\doTOCline{1TH}{1 Thessaloniciens}{}{}{1819}
+\doTOCline{2TH}{2 Thessaloniciens}{}{}{1825}
+\doTOCline{1TI}{1 Timothée}{}{}{1829}
+\doTOCline{2TI}{2 Timothée}{}{}{1836}
+\doTOCline{TIT}{Tite}{}{}{1841}
+\doTOCline{PHM}{Philémon}{}{}{1844}
+\doTOCline{HEB}{Hébreux}{}{}{1846}
+\doTOCline{JAS}{Jacques}{}{}{1866}
+\doTOCline{1PE}{1 Pierre}{}{}{1873}
+\doTOCline{2PE}{2 Pierre}{}{}{1880}
+\doTOCline{1JN}{1 Jean}{}{}{1885}
+\doTOCline{2JN}{2 Jean}{}{}{1892}
+\doTOCline{3JN}{3 Jean}{}{}{1893}
+\doTOCline{JUD}{Jude}{}{}{1894}
+\doTOCline{REV}{Apocalypse}{}{}{1896}
+}

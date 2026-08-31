@@ -1,0 +1,33 @@
+\defTOC{main}{
+\doTOCline{XXB}{Page de titre}{}{}{1}
+}
+\defTOC{ot}{
+}
+\defTOC{nt}{
+}
+\defTOC{dc}{
+}
+\defTOC{pre}{
+}
+\defTOC{post}{
+\doTOCline{XXB}{Page de titre}{}{}{1}
+}
+\defTOC{heb}{
+}
+\defTOC{bible}{
+}
+\defTOC{sorta}{
+\doTOCline{XXB}{Page de titre}{}{}{1}
+}
+\defTOC{biba}{
+}
+\defTOC{sortb}{
+\doTOCline{XXB}{Page de titre}{}{}{1}
+}
+\defTOC{bibb}{
+}
+\defTOC{sortc}{
+\doTOCline{XXB}{Page de titre}{}{}{1}
+}
+\defTOC{bibc}{
+}

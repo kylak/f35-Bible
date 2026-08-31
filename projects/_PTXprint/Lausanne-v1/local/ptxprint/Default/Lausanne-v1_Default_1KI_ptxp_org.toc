@@ -1,0 +1,3 @@
+\defTOC{main}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}

@@ -1,0 +1,38 @@
+\defTOC{main}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{ot}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{nt}{
+}
+\defTOC{dc}{
+}
+\defTOC{pre}{
+}
+\defTOC{post}{
+}
+\defTOC{heb}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{bible}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{sorta}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{biba}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{sortb}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{bibb}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{sortc}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}
+\defTOC{bibc}{
+\doTOCline{1KI}{1 Rois}{}{}{1}
+}

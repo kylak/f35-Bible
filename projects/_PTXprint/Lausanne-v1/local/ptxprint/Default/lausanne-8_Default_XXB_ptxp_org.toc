@@ -1,0 +1,3 @@
+\defTOC{main}{
+\doTOCline{XXB}{Page de titre}{}{}{1}
+}
