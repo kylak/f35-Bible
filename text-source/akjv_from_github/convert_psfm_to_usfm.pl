@@ -3,9 +3,12 @@
 #
 # Usage:
 #   perl convert_psfm_to_usfm.pl                # zip mode (default):
-#                                               #   take the first *.zip in the current
-#                                               #   directory, convert the .p.sfm files it
-#                                               #   contains, and write <zip>-usfm.zip there.
+#                                               #   use ENG-B-AKJV2018-pd-PSFM-master.zip
+#                                               #   (in the current directory, or next to
+#                                               #   this script), convert the .p.sfm files
+#                                               #   it contains, and write
+#                                               #   ENG-B-AKJV2018-pd-PSFM-master-usfm.zip
+#                                               #   in the current directory.
 #   perl convert_psfm_to_usfm.pl <src.zip> [<out.zip>]
 #                                               # zip mode with explicit paths (out.zip
 #                                               # defaults to <src>-usfm.zip in the cwd)
@@ -47,6 +50,7 @@ use File::Find qw(find);
 
 my $default_src_dir = "$Bin/text-source/ENG-B-AKJV2018-pd-PSFM-master/p.sfm";
 my $default_out_dir = "$Bin/text-source/ENG-B-AKJV2018-pd-PSFM-master/usfm";
+my $default_zip     = 'ENG-B-AKJV2018-pd-PSFM-master.zip';
 
 # ---------------------------------------------------------------------------
 # Interpret the command line
@@ -57,9 +61,14 @@ if (@ARGV >= 1) {
     $out = @ARGV >= 1 ? shift @ARGV : undef;
 }
 else {
-    my @zips = sort glob '*.zip';
-    if (@zips) {
-        $src = $zips[0];            # zip mode: first *.zip found in the current dir
+    # zip mode: default to the AKJV source zip, in the current directory
+    # (or, failing that, in the directory where this script lives)
+    if (-f $default_zip) {
+        $src = $default_zip;
+        print "Using source zip: $src\n";
+    }
+    elsif (-f "$Bin/$default_zip") {
+        $src = "$Bin/$default_zip";
         print "Using source zip: $src\n";
     }
     else {
@@ -157,7 +166,13 @@ if (-d $src) {
 }
 elsif (-f $src && $src =~ /\.zip$/i) {
     # --- zip mode ---
-    my $out_zip = defined $out ? $out : do { (my $b = $src) =~ s/\.zip$//i; "$b-usfm.zip" };
+    # Output zip defaults to <zip-basename>-usfm.zip in the CURRENT directory,
+    # regardless of where the source zip was found.
+    my $out_zip = defined $out ? $out : do {
+        (my $b = $src) =~ s!.*/!!;   # basename only
+        $b =~ s/\.zip$//i;
+        "$b-usfm.zip";
+    };
 
     my $tmp_in  = tempdir("psfm_extract.XXXXXX", CLEANUP => 1);
     my $tmp_out = tempdir("usfm_out.XXXXXX",    CLEANUP => 1);
