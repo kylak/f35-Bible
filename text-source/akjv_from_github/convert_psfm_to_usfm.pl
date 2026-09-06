@@ -36,8 +36,21 @@
 #   \mt7                 -> \mt2      (series/subtitle title line)
 #   \mte9 ~              -> \rem ~    (page-end placeholder)
 #   \cn ~                -> \rem ~    (non-standard marker; page-end placeholder)
+#   \periph X            -> \rem X    (see note below)
 #
-# All other markers (\v \p \c \cd \m \d \qa \imi \iqt \is1 \periph \cl \bd \iq \ie \sig ...)
+# Note on \periph: PTXprint's USFM import round-trips the text through USX
+# (usfmtc). Its parser treats \periph as an "internal" marker that does NOT
+# close the current paragraph, so a \periph line gets nested inside the
+# preceding paragraph and is re-emitted on the SAME line (e.g.
+# "\imt1 New Testamant\periph Blank Page after NT title page."), which makes
+# ptx2pdf fail with "Too many }'s" (the \periph macro needs to start its own
+# line). Converting \periph to \rem avoids the crash: \rem is treated as a
+# real paragraph boundary by the importer, stays on its own line, and the
+# periph text is preserved as a (non-printed) remark. If real \periph
+# sections are needed later, add them in PTXprint itself (\periph Name|id="..."
+# placed directly after \id or another \periph line).
+#
+# All other markers (\v \p \c \cd \m \d \qa \imi \iqt \is1 \cl \bd \iq \ie \sig ...)
 # are already valid USFM 3 and pass through unchanged.
 
 use strict;
@@ -112,8 +125,9 @@ sub convert_files {
             $line =~ s/^\\q0(.*)$/\\q1$1/;        # \q0
             $line =~ s/^\\toc0(.*)$/\\rem$1/;     # \toc0
             $line =~ s/^\\mt7(.*)$/\\mt2$1/;      # \mt7
-            $line =~ s/^\\mte9(.*)$/\\rem$1/;     # \mte9 (page-end placeholder)
-            $line =~ s/^\\cn(.*)$/\\rem$1/;       # \cn (page-end placeholder)
+        $line =~ s/^\\mte9(.*)$/\\rem$1/;     # \mte9 (page-end placeholder)
+        $line =~ s/^\\cn(.*)$/\\rem$1/;       # \cn (page-end placeholder)
+        $line =~ s/^\\periph(.*)$/\\rem$1/;   # \periph -> \rem (avoids PTXprint import merge / ptx2pdf crash)
 
             print {$out} $line;
             $changed++ if $line ne $orig;
