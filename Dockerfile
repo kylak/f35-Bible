@@ -19,11 +19,11 @@ RUN sed -i 's/^# *fr_FR.UTF-8 UTF-8/fr_FR.UTF-8 UTF-8/' /etc/locale.gen \
     && locale-gen fr_FR.UTF-8 C.UTF-8
 
 # Téléchargement des paquets officiels PTXprint (GUI + moteur PDF) et usfmtc
-ARG PTX_VERSION=3.0.17-1ubuntu1-202603271032~ubuntu24.04.1
+ARG PTX_VERSION=3.0.38-1ubuntu1-202608132122~ubuntu24.04.1
 ARG USFMTC_VERSION=0.4.1-1ubuntu3
 RUN mkdir -p /tmp/debs && cd /tmp/debs \
     && wget -q "https://software.sil.org/downloads/r/ptxprint/python3-usfmtc_${USFMTC_VERSION}_all.deb" \
-    && wget -q "https://software.sil.org/downloads/r/ptxprint/python3-ptxprint_${PTX_VERSION}_all.deb"
+    && wget -q "https://launchpad.net/~silnrsi/+archive/ubuntu/ptxprint/+files/python3-ptxprint_${PTX_VERSION}_all.deb"
 
 # Installation : apt résout automatiquement toutes les dépendances Ubuntu
 # (python3-gi, gir1.2-gtk-3.0, gir1.2-popper, texlive-xetex, etc.)
