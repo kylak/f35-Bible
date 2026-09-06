@@ -253,4 +253,64 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/ENG-B-AKJV2018-pd-PSFM-master.zip" added="2026-08-31T19:12:14.721352Z" modified="2026-08-31T19:12:14.721359Z" visited="2026-08-31T19:12:14.721353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-31T19:12:14.721356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/ENG-B-AKJV2018-pd-PSFM-master/akjv-github-usfm.zip" added="2026-08-31T20:01:22.220252Z" modified="2026-08-31T20:01:22.220259Z" visited="2026-08-31T20:01:22.220253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-31T20:01:22.220255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/ee.zip" added="2026-08-31T20:11:10.610999Z" modified="2026-08-31T20:11:10.611020Z" visited="2026-08-31T20:11:10.611000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-31T20:11:10.611002Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/ENG-B-AKJV2018-pd-PSFM-master/p.sfm/AKJV/Settings.xml" added="2026-09-02T19:52:40.485064Z" modified="2026-09-02T19:52:40.485068Z" visited="2026-09-02T19:52:40.485065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-maven+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-09-02T19:52:40.485066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/ENG-B-AKJV2018-pd-PSFM-master/p.sfm/GOODAKJV/Settings.xml" added="2026-09-02T20:00:15.720452Z" modified="2026-09-02T20:00:15.720459Z" visited="2026-09-02T20:00:15.720453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-maven+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-09-02T20:00:15.720455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/text-source/ENG-B-AKJV2018-pd-PSFM-master/usfm/ee.zip" added="2026-09-06T01:14:48.643880Z" modified="2026-09-06T01:14:48.643890Z" visited="2026-09-06T01:14:48.643881Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-09-06T01:14:48.643884Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

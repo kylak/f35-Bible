@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.8.8)  13 AUG 2026 14:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.8.8)  2 SEP 2026 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,8 +502,8 @@ Baselineskip for p was undefined, now set to 13.99988pt(13.99988pt)
  (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.picpages)
 \openout4 = `AKJV_Default_GEN_ptxp.picpages'.
 
-Reading optional file "AKJV_Default_GEN_ptxp.marginnotes"
- (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.marginnotes) ptxfile 01GENAKJV-Default.USFM monoglot,
+Optional file "AKJV_Default_GEN_ptxp.marginnotes" Cannot be found
+ ptxfile 01GENAKJV-Default.USFM monoglot,
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/01GENAKJV-Default.USFM.adj" found)
 (no picture list "01GENAKJV-Default.USFM.piclist" found)
  (./01GENAKJV-Default.USFM First chapter for GEN
@@ -659,11 +659,11 @@ Underfill[B]: [93] ht=321.9972pt, space=349.99695pt, baseline=13.99988pt
  [93]
 \openout0 = `AKJV_Default_GEN_ptxp.delayed'.
 
- (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.parlocs) Elapsed time: 3.3974s (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.notepages) (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.picpages) ) 
+ (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.parlocs) Elapsed time: 4.19836s (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.notepages) (/work/projects/_PTXprint/AKJV/local/ptxprint/Default/AKJV_Default_GEN_ptxp.picpages) ) 
 Here is how much of TeX's memory you used:
- 12946 strings out of 495016
- 192374 string characters out of 12441563
- 479220 words of memory out of 5000000
+ 12944 strings out of 495016
+ 192179 string characters out of 12441563
+ 479165 words of memory out of 5000000
  16747 multiletter control sequences out of 15000+600000
  4826 words of font info for 26 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 65521
