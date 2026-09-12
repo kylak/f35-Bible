@@ -3,106 +3,6 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///work/lausanne/44-JHN.usfm" added="2026-08-08T23:35:16.555074Z" modified="2026-08-08T23:35:16.555080Z" visited="2026-08-08T23:35:16.555075Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-08T23:35:16.555077Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/lausanne/lausanne-usfm.zip" added="2026-08-08T23:36:13.987876Z" modified="2026-08-09T08:05:52.428299Z" visited="2026-08-08T23:36:13.987877Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-09T08:05:52.428297Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/lausanne/lausanne-last-usfm.zip" added="2026-08-09T01:51:46.629018Z" modified="2026-08-09T01:51:46.629026Z" visited="2026-08-09T01:51:46.629020Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-09T01:51:46.629022Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/projects/_PTXprint/lausanne-5/local/ptxprint/lausanne-5_Default_XXA_ptxp.pdf" added="2026-08-09T08:24:08.058576Z" modified="2026-08-09T08:24:08.058582Z" visited="2026-08-09T08:24:08.058577Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-09T08:24:08.058579Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/lausanne/lausanne-usfm(2).zip" added="2026-08-09T09:43:50.696102Z" modified="2026-08-09T10:35:23.450385Z" visited="2026-08-09T09:43:50.696104Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-09T10:35:23.450381Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/lausanne/lausanne-usfm(3).zip" added="2026-08-09T10:31:24.854320Z" modified="2026-08-09T10:31:24.854331Z" visited="2026-08-09T10:31:24.854322Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-09T10:31:24.854325Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/projects/_PTXprint/lausanne-8/local/ptxprint/lausanne-8_Default_XXB_ptxp.pdf" added="2026-08-09T10:41:33.849594Z" modified="2026-08-10T12:25:43.751567Z" visited="2026-08-09T10:41:33.849595Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-10T12:25:43.751564Z" count="4"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/projects/_PTXprint/lausanne-8/local/ptxprint/lausanne-8_Default_XXB_ptxp_1.pdf" added="2026-08-10T12:22:01.034563Z" modified="2026-08-10T12:22:01.034566Z" visited="2026-08-10T12:22:01.034564Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-10T12:22:01.034564Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/projects/_PTXprint/Lausanne-v1/local/ptxprint/page-de-titre.pdf" added="2026-08-10T12:33:07.456705Z" modified="2026-08-10T12:33:07.456712Z" visited="2026-08-10T12:33:07.456706Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/pdf"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-10T12:33:07.456708Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///work/text-source/lausanne-usfm.zip" added="2026-08-10T13:06:06.992188Z" modified="2026-08-10T13:06:06.992200Z" visited="2026-08-10T13:06:06.992190Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-10T13:06:06.992193Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///work/text-source/akjv/convert-to-UFSM-with-Claude/BibleAKJV_USFM.zip" added="2026-08-13T13:42:48.347743Z" modified="2026-08-13T13:42:48.347751Z" visited="2026-08-13T13:42:48.347744Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -243,12 +143,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///work/text-source/updated-ND/48GALfr.zip" added="2026-08-15T11:42:41.782092Z" modified="2026-08-15T19:22:46.493067Z" visited="2026-08-15T11:42:41.782093Z">
+  <bookmark href="file:///work/text-source/updated-ND/48GALfr.zip" added="2026-08-15T11:42:41.782092Z" modified="2026-09-12T09:59:30.305813Z" visited="2026-08-15T11:42:41.782093Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/zip"/>
         <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-08-15T19:22:46.493062Z" count="11"/>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-09-12T09:59:30.305810Z" count="22"/>
         </bookmark:applications>
       </metadata>
     </info>
