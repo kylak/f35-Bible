@@ -12,6 +12,9 @@ Conventions reconnues dans le HTML source
   <span class="ma-ponctuation">…</span>     ->  CONSERVÉ    (votre ponctuation)
         (une balise qui porte les DEUX classes est conservée :
          c'est une ponctuation sur laquelle vous êtes d'accord avec R.P.)
+  <span class="majuscule">…</span>          ->  \\zmaj …\\zmaj*  (gras, police réduite)
+        (marqueur personnalisé dans le namespace réservé « z » :
+         à déclarer côté PTX Print par \\Marker zmaj / \\StyleType character)
   [mot]                                     ->  \\add mot\\add*   (italiques)
   {mot}                                     ->  note de bas de page
   title="…"  (infobulle)                    ->  note de bas de page
@@ -290,6 +293,10 @@ class AnalyseurHTML(HTMLParser):
         # --- infobulle title="…" -> note de bas de page
         if a.get("title") and c.demarre:
             entree["note"] = a["title"]
+
+        # --- classe "majuscule" -> marqueur utilisateur \zmaj (gras + petit)
+        if "majuscule" in classes and c.demarre:
+            entree["ferme"] += c.ouvre_marqueur("zmaj")
 
         # --- mise en forme facultative
         if c.o.formatage and c.demarre:

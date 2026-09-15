@@ -1,0 +1,7 @@
+
+# Imported from /work/projects/_PTXprint/galates-16/shared/ptxprint/Default
+
+# Imported from /work/projects/_PTXprint/galates-5/shared/ptxprint/Default
+# This (changes.txt) file is for configuration-specific changes (not affecting other configs).
+# More generic project-wide changes can be specified in PrintDraftChanges.txt.
+include "../../../PrintDraftChanges.txt"

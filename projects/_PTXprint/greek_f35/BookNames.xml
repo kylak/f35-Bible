@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookNames>
+  <book code="MAT" long="ΕΥΑΓΓΕΛΙΟΝ ΚΑΤΑ ΜΑΤΘΑΙΟΝ" short="ΚΑΤΑ ΜΑΤΘΑΙΟΝ" abbr="ΚΑΤΑ ΜΑΤΘΑΙΟΝ"/>
+  <book code="MRK" long="ΕΥΑΓΓΕΛΙΟΝ ΚΑΤΑ ΜΑΡΚΟΝ" short="ΚΑΤΑ ΜΑΡΚΟΝ" abbr="ΚΑΤΑ ΜΑΡΚΟΝ"/>
+  <book code="LUK" long="ΕΥΑΓΓΕΛΙΟΝ ΚΑΤΑ ΛΟΥΚΑΝ" short="ΚΑΤΑ ΛΟΥΚΑΝ" abbr="ΚΑΤΑ ΛΟΥΚΑΝ"/>
+  <book code="JHN" long="ΕΥΑΓΓΕΛΙΟΝ ΚΑΤΑ ΙΩΑΝΝΗΝ" short="ΚΑΤΑ ΙΩΑΝΝΗΝ" abbr="ΚΑΤΑ ΙΩΑΝΝΗΝ"/>
+  <book code="ACT" long="ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ" short="ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ" abbr="ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ"/>
+  <book code="ROM" long="ΠΡΟΣ ΡΩΜΑΙΟΥΣ" short="ΠΡΟΣ ΡΩΜΑΙΟΥΣ" abbr="ΠΡΟΣ ΡΩΜΑΙΟΥΣ"/>
+  <book code="1CO" long="ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄" short="ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄" abbr="ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄"/>
+  <book code="2CO" long="ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄" short="ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄" abbr="ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄"/>
+  <book code="GAL" long="ΠΡΟΣ ΓΑΛΑΤΑΣ" short="ΠΡΟΣ ΓΑΛΑΤΑΣ" abbr="ΠΡΟΣ ΓΑΛΑΤΑΣ"/>
+  <book code="EPH" long="ΠΡΟΣ ΕΦΕΣΙΟΥΣ" short="ΠΡΟΣ ΕΦΕΣΙΟΥΣ" abbr="ΠΡΟΣ ΕΦΕΣΙΟΥΣ"/>
+  <book code="PHP" long="ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ" short="ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ" abbr="ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ"/>
+  <book code="COL" long="ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ" short="ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ" abbr="ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ"/>
+  <book code="1TH" long="ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄" short="ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄" abbr="ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄"/>
+  <book code="2TH" long="ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄" short="ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄" abbr="ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄"/>
+  <book code="1TI" long="ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄" short="ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄" abbr="ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄"/>
+  <book code="2TI" long="ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄" short="ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄" abbr="ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄"/>
+  <book code="TIT" long="ΠΡΟΣ ΤΙΤΟΝ" short="ΠΡΟΣ ΤΙΤΟΝ" abbr="ΠΡΟΣ ΤΙΤΟΝ"/>
+  <book code="PHM" long="ΠΡΟΣ ΦΙΛΗΜΟΝΑ" short="ΠΡΟΣ ΦΙΛΗΜΟΝΑ" abbr="ΠΡΟΣ ΦΙΛΗΜΟΝΑ"/>
+  <book code="HEB" long="ΠΡΟΣ ΕΒΡΑΙΟΥΣ" short="ΠΡΟΣ ΕΒΡΑΙΟΥΣ" abbr="ΠΡΟΣ ΕΒΡΑΙΟΥΣ"/>
+  <book code="JAS" long="ΙΑΚΩΒΟΥ ΕΠΙΣΤΟΛΗ" short="ΙΑΚΩΒΟΥ ΕΠΙΣΤΟΛΗ" abbr="ΙΑΚΩΒΟΥ ΕΠΙΣΤΟΛΗ"/>
+  <book code="1PE" long="ΠΕΤΡΟΥ Α΄" short="ΠΕΤΡΟΥ Α΄" abbr="ΠΕΤΡΟΥ Α΄"/>
+  <book code="2PE" long="ΠΕΤΡΟΥ Β΄" short="ΠΕΤΡΟΥ Β΄" abbr="ΠΕΤΡΟΥ Β΄"/>
+  <book code="1JN" long="ΙΩΑΝΝΟΥ Α΄" short="ΙΩΑΝΝΟΥ Α΄" abbr="ΙΩΑΝΝΟΥ Α΄"/>
+  <book code="2JN" long="ΙΩΑΝΝΟΥ Β΄" short="ΙΩΑΝΝΟΥ Β΄" abbr="ΙΩΑΝΝΟΥ Β΄"/>
+  <book code="3JN" long="ΙΩΑΝΝΟΥ Γ΄" short="ΙΩΑΝΝΟΥ Γ΄" abbr="ΙΩΑΝΝΟΥ Γ΄"/>
+  <book code="JUD" long="ΙΟΥΔΑ" short="ΙΟΥΔΑ" abbr="ΙΟΥΔΑ"/>
+  <book code="REV" long="ΑΠΟΚΑΛΥΨΙΣ" short="ΑΠΟΚΑΛΥΨΙΣ" abbr="ΑΠΟΚΑΛΥΨΙΣ"/>
+  <book code="FRT" long="Front Matter" short="Front Matter" abbr="Front Matter"/>
+  <book code="INT" long="Preface" short="Preface" abbr="Preface"/>
+</BookNames>
