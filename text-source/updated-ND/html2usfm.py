@@ -17,6 +17,9 @@ Conventions reconnues dans le HTML source
          à déclarer côté PTX Print par \\Marker zmaj / \\StyleType character)
   [mot]                                     ->  \\add mot\\add*   (italiques)
   {mot}                                     ->  note de bas de page
+  <h2><span>…</span>…</h2>                  ->  titre imprimé (\\toc1, \\mt1)
+        (le texte du premier <span> du <h2>, avant le ch.1, remplace
+         l'option --titre ; sinon --titre sert de repli)
   title="…"  (infobulle)                    ->  note de bas de page
   <br>                                      ->  nouveau paragraphe \\m
   &emsp; (cadratin d'alinéa)                ->  nouveau paragraphe \\p
@@ -68,6 +71,7 @@ class ConvertisseurUSFM:
         self.lignes = []          # lignes du paragraphe courant
         self.courante = ""        # ligne en cours de construction
         self.marqueur = None      # marqueur de paragraphe en attente ('p' / 'm')
+        self.titre_imprime = None # titre lu dans le <h2> du HTML, si présent
         self.demarre = False      # on n'écrit qu'à partir de "ch.1"
         self.chapitre = 0
         self.verset = 0
@@ -205,15 +209,18 @@ class ConvertisseurUSFM:
     # ---------------------------------------------------------------- final
     def entete(self):
         o = self.o
+        # Le titre imprimé vient du <span> du <h2> quand il existe ;
+        # l'option --titre n'est alors qu'un repli.
+        titre = self.titre_imprime or o.titre
         e = [
             "\\id %s %s" % (o.id, o.titre),
             "\\usfm 3.0",
             "\\ide UTF-8",
             "\\h %s" % o.nom,
-            "\\toc1 %s" % o.titre,
+            "\\toc1 %s" % titre,
             "\\toc2 %s" % o.nom,
             "\\toc3 %s" % o.abrev,
-            "\\mt1 %s" % o.titre,
+            "\\mt1 %s" % titre,
         ]
         return e
 
@@ -243,6 +250,8 @@ class AnalyseurHTML(HTMLParser):
         self.pile = []        # balises ouvertes
         self.saut = 0         # profondeur de zone ignorée
         self.capture = None   # texte d'un <span class="verses">
+        self.dans_h2 = 0      # profondeur des <h2>
+        self.capture_titre = None  # texte du <span> dans le <h2>
 
     # ------------------------------------------------------------ ouverture
     def handle_starttag(self, tag, attrs):
@@ -271,6 +280,15 @@ class AnalyseurHTML(HTMLParser):
         if self.saut or tag in IGNOREES:
             entree["saut"] = True
             self.saut += 1
+            return
+
+        # --- titre du livre : le <span> du <h2>, avant le ch.1
+        if tag == "h2":
+            self.dans_h2 += 1
+        elif (tag == "span" and self.dans_h2
+                and not c.demarre and c.titre_imprime is None
+                and self.capture_titre is None):
+            self.capture_titre = ""
             return
 
         classes = set(a.get("class", "").split())
@@ -313,6 +331,13 @@ class AnalyseurHTML(HTMLParser):
         tag = tag.lower()
         if tag in VIDES:
             return
+        if tag == "h2":
+            self.dans_h2 = max(0, self.dans_h2 - 1)
+        if tag == "span" and self.capture_titre is not None:
+            txt = re.sub(r"\s+", " ", self.capture_titre).strip()
+            if txt:
+                self.c.titre_imprime = txt
+            self.capture_titre = None
         # On cherche la balise ouvrante correspondante en remontant la pile ;
         # tout ce qui est resté ouvert au-dessus est refermé au passage.
         for i in range(len(self.pile) - 1, -1, -1):
@@ -356,6 +381,9 @@ class AnalyseurHTML(HTMLParser):
     def handle_data(self, data):
         if self.capture is not None:
             self.capture += data
+            return
+        if self.capture_titre is not None:
+            self.capture_titre += data
             return
         if self.saut:
             return
