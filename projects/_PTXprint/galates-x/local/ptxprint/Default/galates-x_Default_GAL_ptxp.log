@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  15 SEP 2026 09:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  27 SEP 2026 04:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**greek_f35_Default_MAT_ptxp.tex
-(/work/projects/_PTXprint/greek_f35/local/ptxprint/Default/greek_f35_Default_MAT_ptxp.tex (/usr/share/ptx2pdf/texmacros/paratext2.tex This is xetex "0" "999995"
+**galates-x_Default_GAL_ptxp.tex
+(/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.tex (/usr/share/ptx2pdf/texmacros/paratext2.tex This is xetex "0" "999995"
 \@ndhooks=\toks13
 \st@rtptxhooks=\toks14
 \@ndptxhooks=\toks15
@@ -481,16 +481,17 @@ Reading optional file "pgflibraryvectorian.code.tex"
 \refn@te-ex=\count144
  ] [\esb ] [\esbe ] [\erq ] [\erqe ] [\cat ] [\qt ] [\nd ] [\tl ] [\dc ] [\bk ] [\sig ] [\pn ] [\png ] [\addpn ] [\wj ] [\k ] [\sls ] [\ord ] [\add ] [\lit ] [\no ] [\it ] [\bd ] [\bdit ] [\em ] [\sc ] [\sup ] [\pb ] [\fig ] [\jmp ] [\pro ] [\rb ] [\w ] [\wh ] [\wg ] [\wa ] [\ndx ] [\periph ] [\p1 ] [\p2 ] [\k1 ] [\k2 ] [\xtSee ] [\xtSeeAlso ] [\qt-s ] [\qt1-s ] [\qt2-s ] [\qt3-s ] [\qt4-s ] [\qt5-s ] [\ts-s ] [\ph ] [\ph1 ] [\ph2 ] [\ph3 ] [\phi ] [\tr1 ] [\tr2 ] [\ps ] [\psi ] [\wr ] [\pub ] [\toc ] [\pref ] [\intro ] [\conc ] [\glo ] [\idx ] [\maps ] [\cov ] [\spine ] [\pubinfo ] [\zpa-xb ] [\zpa-xc ] [\zpa-xv ] [\zpa-d ] Reading Paratext stylesheet "ptx2pdf.sty" ()... [\k [\imt [\imt1 [\imt2 [\imt3 [\imt4 [\imte [\imte1 [\imte2 [\is [\is1 [\is2 [\iot [\io1 [\io2 [\io3 [\io4 [\ip [\im [\ipi [\imi [\ili [\ili1 [\ili2 [\ipq [\imq [\ipr [\ib [\iq [\iq1 [\iq2 [\iq3 [\iex [\ie [\mt [\mt1 [\mt2 [\mt3 [\mt4 [\p [\m [\ms [\b [\ib [\pi [\pi1 [\pi2 [\pi3 [\pc [\mi [\nb [\pn [\nd [\r [\s [\s1 [\s1e [\s2 [\s2e [\s3 [\s3e [\s4 [\s4e [\sr [\d [\lh [\li [\li1 [\li2 [\li3 [\li4 [\pb [\q [\q1 [\q2 [\q3 [\q4 [\qc [\qr [\pi [\pi1 [\pi2 [\pi3 [\tr [\p1 [\p2 [\v [\f [\fr [\fp ] [\fq [\fqa [\fk [\ft [\fv [\fm [\fdc [\x [\xo [\xq [\xk [\xdc [\xot [\xnt [\xt [\iqt [\pmo [\pm [\pmc [\qs [\rq [\pro [\wr [\wh [\wg [\wl ] [\fig [\periph [\rem [\rb ] [\it [\sc [\no [\bd [\bdit [\em [\cat [\err ] [\inc ] [\vrs ] [\ref ] [\refnp ] [\rep ] [\mod ] [\qt-s [\ampersand ] [\asterisk ] [\circumflex ] [\dollar ] [\dopagenums ] [\zfooter ] [\hash ] [\nopagenums ] [\percent ] [\resetpagenums ] [\space ] [\zNeedOddPage ] [\zNeedEvenPage ] [\zNeedQuadPage ] [\xtd ] [\xtl ] [\xtn ] [\xts ] [\xtr ] [\xti ] [\gloss|rb ] [\zthumbtab ] [\cat:colophon|esb [\zimagecopyrights ] [\zfiga ] [\zpdf ] [\zifvarset ] [\zifhook ] [\ztruetext ] [\zfalsetext ] [\ztoc ] [\zfillsignature ] [\zvar ] [\zgetperiph ] [\zISBNbarcode ] [\x-credit [\Dark|x-credit [\Light|x-credit [\None|x-credit [\toc3 [\zbl ] [\zrule ] [\zmakeinsert ] [\zrule ] [\zmvm ] [\zqrcode ] [\zgap ] [\zsetref ] [\vid ] [\zlabel ] [\zpage ] [\zref ] [\zcustommark ] [\zcustomtopmark ] [\zcustombotmark ] [\zcustomfirstmark ] [\zornament ] [\textborder [\id:INT|textborder [\id:GLO|textborder [\id:GLO|p ] [\strong-s ] [\strong-s+li ] [\strong-s+m ] [\wg+strong-s ] [\wh+strong-s ] [\wl+strong-s ] [\xt+strong-s ] [\k+strong-s ] [\cat:toc|tr [\cat:lot|tr [\cat:toc|tc1 [\cat:lot|tc1 [\cat:box|esb [\zglm ] [\zpmkr ] [\th1 [\th2 [\th3 [\th4 [\th5 [\th6 [\th7 [\th8 [\tc1 [\cat:toc|tc1 [\tc2 [\tc3 [\tc4 [\tc5 [\tc6 [\tc7 [\tc8 [\toc1 [\toc2 [\toc3 [\ldrs ] [\cat:coverwhole|esb [\cat:coverspine|esb [\cat:coverfront|esb [\cat:coverback|esb [\cat:coverback|m ] [\cat:ISBNbox|esb [\zcolsync ] [\zlistentry ] [\cat:coverfront|mt1 ] [\cat:coverfront|mt2 ] [\cat:coverspine|mt1 ] [\cat:coverspine|mt2 ] [\cat:titlebox|esb [\cat:headingsbox|esb [\zbn ] [\zbn2 ] Reading Paratext stylesheet "../../../shared/ptxprint/Default/ptxprint.sty" ()... [\+maj ] [\add [\c [\cat:coverfront|esb [\mt3 [\nb [\p [\zmaj ]
 \intercharskip=\skip22
- (/work/projects/_PTXprint/greek_f35/local/ptxprint/Default/greek_f35_Default_MAT_ptxp.notepages)
-\openout4 = `greek_f35_Default_MAT_ptxp.notepages'.
+ (/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.notepages)
+\openout4 = `galates-x_Default_GAL_ptxp.notepages'.
 
 \langund=\language1
  snippet 1 ptxfile  monoglot,
 Baselineskip for p was undefined, now set  to 13.99988pt(13.99988pt)
  lineskiplimit=-10.49991pt
 \baselineskip =13.99988pt, topskip=13.99988pt
-\openout0 = `greek_f35_Default_MAT_ptxp.parlocs'.
+\openout0 = `galates-x_Default_GAL_ptxp.parlocs'.
 
+ (/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.delayed)
 \endn@te-fe=\box106
 \savecolinsert@tLcol=\box107
 \savecolinsert@tLchunk=\box108
@@ -516,30 +517,55 @@ Baselineskip for p was undefined, now set  to 13.99988pt(13.99988pt)
  [\cat:toc|tc1 ] [\cat:toc|tc2 ] [\cat:toc|tc3 ] [\cat:toc|tc4 ]
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/.adj" found)
 (no picture list ".piclist" found)
- (/work/projects/_PTXprint/greek_f35/local/ptxprint/Default/greek_f35_Default_MAT_ptxp.picpages)
-\openout5 = `greek_f35_Default_MAT_ptxp.picpages'.
+ (/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.picpages)
+\openout5 = `galates-x_Default_GAL_ptxp.picpages'.
 
-Optional file "greek_f35_Default_MAT_ptxp.marginnotes" Cannot be found
- ptxfile 41MATgreek_f35-Default.USFM monoglot,
-(no adjustment list "../../../shared/ptxprint/Default/AdjLists/41MATgreek_f35-Default.USFM.adj" found)
-(no picture list "41MATgreek_f35-Default.USFM.piclist" found)
- (./41MATgreek_f35-Default.USFM First chapter for MAT
-! Undefined control sequence.
-\ch@rstylepls ...tgrouplevel }\edef \newch@rstyle 
-                                                  {\detokenize {#1}}\catcode...
-\v@rse ->\+wg 
-              1
-\@v@ ...@rref {\id@@@ \c@rrdstat \ch@pter :\v@rse 
-                                                  }\fi \fmc@unt =0 \leavevmo...
-l.12 \m \v \+wg 1 
-                  Βίβλος γενέσεως Ἰησοῦ Χριστοῦ, υἱοῦ Δαυίδ\+wg*,\f + \fr 1:... 
+Optional file "galates-x_Default_GAL_ptxp.marginnotes" Cannot be found
+ ptxfile 49GALgalates-x-Default.USFM monoglot,
+(no adjustment list "../../../shared/ptxprint/Default/AdjLists/49GALgalates-x-Default.USFM.adj" found)
+(no picture list "49GALgalates-x-Default.USFM.piclist" found)
+ (./49GALgalates-x-Default.USFM First chapter for GAL
+Underfill[A]: [1] ht=454.99603pt, space=461.99791pt, baseline=13.99988pt
+Underfill[B]: [1] ht=454.99603pt, space=461.99791pt, baseline=13.99988pt
+ [1
+\openout6 = `galates-x_Default_GAL_ptxp.marginnotes'.
+
+]
+Underfill[A]: [2] ht=468.99591pt, space=489.99767pt, baseline=13.99988pt
+ [2]
+Underfill[A]: [3] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [3] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+ [3]
+Underfill[B]: [4] ht=440.99615pt, space=447.99803pt, baseline=13.99988pt
+ [4]
+Underfill[A]: [5] ht=468.99591pt, space=475.99779pt, baseline=13.99988pt
+Underfill[B]: [5] ht=468.99591pt, space=475.99779pt, baseline=13.99988pt
+ [5]
+Underfill[B]: [6] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+ [6]
+Underfill[A]: [7] ht=433.99622pt, space=461.99791pt, baseline=13.99988pt
+Underfill[B]: [7] ht=454.99603pt, space=461.99791pt, baseline=13.99988pt
+ [7] [8])
+Underfill[B]: [9] ht=482.99579pt, space=496.99567pt, baseline=13.99988pt
+ [9]
+\openout0 = `galates-x_Default_GAL_ptxp.delayed'.
+
+ (/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.parlocs)
+\openout3 = `galates-x_Default_GAL_ptxp.lot'.
+
+\openout2 = `.tex'.
+
+ Elapsed time: 0.46642s (/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.notepages) (/work/projects/_PTXprint/galates-x/local/ptxprint/Default/galates-x_Default_GAL_ptxp.picpages) ) 
 Here is how much of TeX's memory you used:
- 11620 strings out of 495016
- 178391 string characters out of 12441608
- 329445 words of memory out of 5000000
- 15430 multiletter control sequences out of 15000+600000
- 4826 words of font info for 26 fonts, out of 8000000 for 9000
+ 11884 strings out of 495016
+ 181960 string characters out of 12441608
+ 527781 words of memory out of 5000000
+ 15680 multiletter control sequences out of 15000+600000
+ 4866 words of font info for 31 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 65521
- 74i,4n,139p,868b,330s stack positions out of 30000i,1000n,20000p,200000b,200000s
+ 74i,14n,139p,1260b,330s stack positions out of 30000i,1000n,20000p,200000b,200000s
 
-No pages of output.
+Output written on galates-x_Default_GAL_ptxp.xdv (9 pages, 356864 bytes).
+
+XeTeX Log Summary: Info: 4   Warn: 1   Error: 0
+8 underfilled pages: 1-7, 9
