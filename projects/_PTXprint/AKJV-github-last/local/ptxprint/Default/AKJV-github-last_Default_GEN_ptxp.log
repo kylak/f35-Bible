@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  6 SEP 2026 20:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  8 OCT 2026 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,7 +479,7 @@ Reading optional file "pgflibraryvectorian.code.tex"
 \notesave2-ex=\box104
 \notesave3-ex=\box105
 \refn@te-ex=\count144
- ] [\esb ] [\esbe ] [\erq ] [\erqe ] [\cat ] [\qt ] [\nd ] [\tl ] [\dc ] [\bk ] [\sig ] [\pn ] [\png ] [\addpn ] [\wj ] [\k ] [\sls ] [\ord ] [\add ] [\lit ] [\no ] [\it ] [\bd ] [\bdit ] [\em ] [\sc ] [\sup ] [\pb ] [\fig ] [\jmp ] [\pro ] [\rb ] [\w ] [\wh ] [\wg ] [\wa ] [\ndx ] [\periph ] [\p1 ] [\p2 ] [\k1 ] [\k2 ] [\xtSee ] [\xtSeeAlso ] [\qt-s ] [\qt1-s ] [\qt2-s ] [\qt3-s ] [\qt4-s ] [\qt5-s ] [\ts-s ] [\ph ] [\ph1 ] [\ph2 ] [\ph3 ] [\phi ] [\tr1 ] [\tr2 ] [\ps ] [\psi ] [\wr ] [\pub ] [\toc ] [\pref ] [\intro ] [\conc ] [\glo ] [\idx ] [\maps ] [\cov ] [\spine ] [\pubinfo ] [\zpa-xb ] [\zpa-xc ] [\zpa-xv ] [\zpa-d ] Reading Paratext stylesheet "ptx2pdf.sty" ()... [\k [\imt [\imt1 [\imt2 [\imt3 [\imt4 [\imte [\imte1 [\imte2 [\is [\is1 [\is2 [\iot [\io1 [\io2 [\io3 [\io4 [\ip [\im [\ipi [\imi [\ili [\ili1 [\ili2 [\ipq [\imq [\ipr [\ib [\iq [\iq1 [\iq2 [\iq3 [\iex [\ie [\mt [\mt1 [\mt2 [\mt3 [\mt4 [\p [\m [\ms [\b [\ib [\pi [\pi1 [\pi2 [\pi3 [\pc [\mi [\nb [\pn [\nd [\r [\s [\s1 [\s1e [\s2 [\s2e [\s3 [\s3e [\s4 [\s4e [\sr [\d [\lh [\li [\li1 [\li2 [\li3 [\li4 [\pb [\q [\q1 [\q2 [\q3 [\q4 [\qc [\qr [\pi [\pi1 [\pi2 [\pi3 [\tr [\p1 [\p2 [\v [\f [\fr [\fp ] [\fq [\fqa [\fk [\ft [\fv [\fm [\fdc [\x [\xo [\xq [\xk [\xdc [\xot [\xnt [\xt [\iqt [\pmo [\pm [\pmc [\qs [\rq [\pro [\wr [\wh [\wg [\wl ] [\fig [\periph [\rem [\rb ] [\it [\sc [\no [\bd [\bdit [\em [\cat [\err ] [\inc ] [\vrs ] [\ref ] [\refnp ] [\rep ] [\mod ] [\qt-s [\ampersand ] [\asterisk ] [\circumflex ] [\dollar ] [\dopagenums ] [\zfooter ] [\hash ] [\nopagenums ] [\percent ] [\resetpagenums ] [\space ] [\zNeedOddPage ] [\zNeedEvenPage ] [\zNeedQuadPage ] [\xtd ] [\xtl ] [\xtn ] [\xts ] [\xtr ] [\xti ] [\gloss|rb ] [\zthumbtab ] [\cat:colophon|esb [\zimagecopyrights ] [\zfiga ] [\zpdf ] [\zifvarset ] [\zifhook ] [\ztruetext ] [\zfalsetext ] [\ztoc ] [\zfillsignature ] [\zvar ] [\zgetperiph ] [\zISBNbarcode ] [\x-credit [\Dark|x-credit [\Light|x-credit [\None|x-credit [\toc3 [\zbl ] [\zrule ] [\zmakeinsert ] [\zrule ] [\zmvm ] [\zqrcode ] [\zgap ] [\zsetref ] [\vid ] [\zlabel ] [\zpage ] [\zref ] [\zcustommark ] [\zcustomtopmark ] [\zcustombotmark ] [\zcustomfirstmark ] [\zornament ] [\textborder [\id:INT|textborder [\id:GLO|textborder [\id:GLO|p ] [\strong-s ] [\strong-s+li ] [\strong-s+m ] [\wg+strong-s ] [\wh+strong-s ] [\wl+strong-s ] [\xt+strong-s ] [\k+strong-s ] [\cat:toc|tr [\cat:lot|tr [\cat:toc|tc1 [\cat:lot|tc1 [\cat:box|esb [\zglm ] [\zpmkr ] [\th1 [\th2 [\th3 [\th4 [\th5 [\th6 [\th7 [\th8 [\tc1 [\cat:toc|tc1 [\tc2 [\tc3 [\tc4 [\tc5 [\tc6 [\tc7 [\tc8 [\toc1 [\toc2 [\toc3 [\ldrs ] [\cat:coverwhole|esb [\cat:coverspine|esb [\cat:coverfront|esb [\cat:coverback|esb [\cat:coverback|m ] [\cat:ISBNbox|esb [\zcolsync ] [\zlistentry ] [\cat:coverfront|mt1 ] [\cat:coverfront|mt2 ] [\cat:coverspine|mt1 ] [\cat:coverspine|mt2 ] [\cat:titlebox|esb [\cat:headingsbox|esb [\zbn ] [\zbn2 ] Reading Paratext stylesheet "../../../shared/ptxprint/Default/ptxprint.sty" ()... [\add [\c [\cat:coverfront|esb [\mt3 [\nb [\p
+ ] [\esb ] [\esbe ] [\erq ] [\erqe ] [\cat ] [\qt ] [\nd ] [\tl ] [\dc ] [\bk ] [\sig ] [\pn ] [\png ] [\addpn ] [\wj ] [\k ] [\sls ] [\ord ] [\add ] [\lit ] [\no ] [\it ] [\bd ] [\bdit ] [\em ] [\sc ] [\sup ] [\pb ] [\fig ] [\jmp ] [\pro ] [\rb ] [\w ] [\wh ] [\wg ] [\wa ] [\ndx ] [\periph ] [\p1 ] [\p2 ] [\k1 ] [\k2 ] [\xtSee ] [\xtSeeAlso ] [\qt-s ] [\qt1-s ] [\qt2-s ] [\qt3-s ] [\qt4-s ] [\qt5-s ] [\ts-s ] [\ph ] [\ph1 ] [\ph2 ] [\ph3 ] [\phi ] [\tr1 ] [\tr2 ] [\ps ] [\psi ] [\wr ] [\pub ] [\toc ] [\pref ] [\intro ] [\conc ] [\glo ] [\idx ] [\maps ] [\cov ] [\spine ] [\pubinfo ] [\zpa-xb ] [\zpa-xc ] [\zpa-xv ] [\zpa-d ] Reading Paratext stylesheet "ptx2pdf.sty" ()... [\k [\imt [\imt1 [\imt2 [\imt3 [\imt4 [\imte [\imte1 [\imte2 [\is [\is1 [\is2 [\iot [\io1 [\io2 [\io3 [\io4 [\ip [\im [\ipi [\imi [\ili [\ili1 [\ili2 [\ipq [\imq [\ipr [\ib [\iq [\iq1 [\iq2 [\iq3 [\iex [\ie [\mt [\mt1 [\mt2 [\mt3 [\mt4 [\p [\m [\ms [\b [\ib [\pi [\pi1 [\pi2 [\pi3 [\pc [\mi [\nb [\pn [\nd [\r [\s [\s1 [\s1e [\s2 [\s2e [\s3 [\s3e [\s4 [\s4e [\sr [\d [\lh [\li [\li1 [\li2 [\li3 [\li4 [\pb [\q [\q1 [\q2 [\q3 [\q4 [\qc [\qr [\pi [\pi1 [\pi2 [\pi3 [\tr [\p1 [\p2 [\v [\f [\fr [\fp ] [\fq [\fqa [\fk [\ft [\fv [\fm [\fdc [\x [\xo [\xq [\xk [\xdc [\xot [\xnt [\xt [\iqt [\pmo [\pm [\pmc [\qs [\rq [\pro [\wr [\wh [\wg [\wl ] [\fig [\periph [\rem [\rb ] [\it [\sc [\no [\bd [\bdit [\em [\cat [\err ] [\inc ] [\vrs ] [\ref ] [\refnp ] [\rep ] [\mod ] [\qt-s [\ampersand ] [\asterisk ] [\circumflex ] [\dollar ] [\dopagenums ] [\zfooter ] [\hash ] [\nopagenums ] [\percent ] [\resetpagenums ] [\space ] [\zNeedOddPage ] [\zNeedEvenPage ] [\zNeedQuadPage ] [\xtd ] [\xtl ] [\xtn ] [\xts ] [\xtr ] [\xti ] [\gloss|rb ] [\zthumbtab ] [\cat:colophon|esb [\zimagecopyrights ] [\zfiga ] [\zpdf ] [\zifvarset ] [\zifhook ] [\ztruetext ] [\zfalsetext ] [\ztoc ] [\zfillsignature ] [\zvar ] [\zgetperiph ] [\zISBNbarcode ] [\x-credit [\Dark|x-credit [\Light|x-credit [\None|x-credit [\toc3 [\zbl ] [\zrule ] [\zmakeinsert ] [\zrule ] [\zmvm ] [\zqrcode ] [\zgap ] [\zsetref ] [\vid ] [\zlabel ] [\zpage ] [\zref ] [\zcustommark ] [\zcustomtopmark ] [\zcustombotmark ] [\zcustomfirstmark ] [\zornament ] [\textborder [\id:INT|textborder [\id:GLO|textborder [\id:GLO|p ] [\strong-s ] [\strong-s+li ] [\strong-s+m ] [\wg+strong-s ] [\wh+strong-s ] [\wl+strong-s ] [\xt+strong-s ] [\k+strong-s ] [\cat:toc|tr [\cat:lot|tr [\cat:toc|tc1 [\cat:lot|tc1 [\cat:box|esb [\zglm ] [\zpmkr ] [\th1 [\th2 [\th3 [\th4 [\th5 [\th6 [\th7 [\th8 [\tc1 [\cat:toc|tc1 [\tc2 [\tc3 [\tc4 [\tc5 [\tc6 [\tc7 [\tc8 [\toc1 [\toc2 [\toc3 [\ldrs ] [\cat:coverwhole|esb [\cat:coverspine|esb [\cat:coverfront|esb [\cat:coverback|esb [\cat:coverback|m ] [\cat:ISBNbox|esb [\zcolsync ] [\zlistentry ] [\cat:coverfront|mt1 ] [\cat:coverfront|mt2 ] [\cat:coverspine|mt1 ] [\cat:coverspine|mt2 ] [\cat:titlebox|esb [\cat:headingsbox|esb [\zbn ] [\zbn2 ] Reading Paratext stylesheet "../../../shared/ptxprint/Default/ptxprint.sty" ()... [\+maj ] [\add [\c [\cat:coverfront|esb [\mt3 [\nb [\p [\zmaj ]
 \intercharskip=\skip22
  (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.notepages)
 \openout4 = `AKJV-github-last_Default_GEN_ptxp.notepages'.
@@ -520,200 +520,219 @@ Baselineskip for p was undefined, now set  to 13.99988pt(13.99988pt)
  (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.picpages)
 \openout5 = `AKJV-github-last_Default_GEN_ptxp.picpages'.
 
-Reading optional file "AKJV-github-last_Default_GEN_ptxp.marginnotes"
- (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.marginnotes) ptxfile 01GENAKJV-github-last-Default.USFM monoglot,
+Optional file "AKJV-github-last_Default_GEN_ptxp.marginnotes" Cannot be found
+ ptxfile 01GENAKJV-github-last-Default.USFM monoglot,
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/01GENAKJV-github-last-Default.USFM.adj" found)
 (no picture list "01GENAKJV-github-last-Default.USFM.piclist" found)
  (./01GENAKJV-github-last-Default.USFM First chapter for GEN
-Underfill[B]: [1] ht=426.99628pt, space=433.99815pt, baseline=13.99988pt
+Underfill[A]: [1] ht=419.99634pt, space=433.99815pt, baseline=13.99988pt
  [1
 \openout6 = `AKJV-github-last_Default_GEN_ptxp.marginnotes'.
 
 ]
-Underfill[B]: [2] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [2] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [2] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [2]
-Underfill[A]: [3] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [3] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [3]
-Underfill[B]: [4] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [4]
-Underfill[A]: [5] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [5] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [5]
-Underfill[A]: [6] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [6] [7]
-Underfill[A]: [8] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [8] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [3] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [3] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [3] [4] [5]
+Underfill[B]: [6] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [6]
+Underfill[A]: [7] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [7] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [7]
+Underfill[A]: [8] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [8] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [8]
-Underfill[A]: [9] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [9] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [9]
-Underfill[A]: [10] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [10]
-Underfill[A]: [11] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [11]
-Underfill[A]: [12] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [12] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [10] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [10] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [10] [11]
+Underfill[B]: [12] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [12]
-Underfill[A]: [13] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [13] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [13] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [13]
-Underfill[A]: [14] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [14] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [14] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
  [14]
-Underfill[B]: [15] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [15] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
  [15]
-Underfill[B]: [16] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [16] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
  [16]
-Underfill[A]: [17] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [17] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [17] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [17]
-Underfill[B]: [18] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [18] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [18] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [18]
-Underfill[A]: [19] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [19] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [19]
-Underfill[B]: [20] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [20] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [20]
-Underfill[A]: [21] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [21] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [21] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [21]
-Underfill[A]: [22] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [22] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [22] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [22] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [22]
-Underfill[A]: [23] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [23] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [23]
-Underfill[A]: [24] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [24] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [24]
-Underfill[A]: [25] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [25] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [23] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [23] [24]
+Underfill[A]: [25] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [25]
 Underfill[A]: [26] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [26]
-Underfill[A]: [27] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
- [27] [28]
-Underfill[A]: [29] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [29] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [27] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [27]
+Underfill[A]: [28] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [28]
+Underfill[A]: [29] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [29] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [29]
-Underfill[A]: [30] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [30] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [30] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [30] [31]
-Underfill[A]: [32] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [32] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [32] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [32]
-Underfill[A]: [33] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [33] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [33] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [33]
-Underfill[A]: [34] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [34] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [34]
-Underfill[A]: [35] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [35] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [35] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [35]
-Underfill[B]: [36] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [36] [37] [38]
-Underfill[A]: [39] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [39] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [39] [40]
-Underfill[A]: [41] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [41] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [36] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [36] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [36]
+Underfill[A]: [37] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [37]
+Underfill[A]: [38] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [38]
+Underfill[B]: [39] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [39]
+Underfill[A]: [40] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [40]
+Underfill[B]: [41] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [41]
-Underfill[A]: [42] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [42] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [42] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [42]
-Underfill[A]: [43] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [43] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [43] [44]
-Underfill[A]: [45] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [45] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [45]
-Underfill[A]: [46] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [46]
-Underfill[A]: [47] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [47] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [43] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [43] [44] [45] [46]
+Underfill[B]: [47] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [47]
-Underfill[A]: [48] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [48] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [48] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [48]
-Underfill[A]: [49] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [49] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [49]
-Underfill[B]: [50] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
- [50]
-Underfill[B]: [51] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [49] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [49] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [49] [50]
+Underfill[A]: [51] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [51]
-Underfill[A]: [52] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [52] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
  [52]
-Underfill[B]: [53] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [53] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [53] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [53]
-Underfill[A]: [54] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [54] [55]
-Underfill[A]: [56] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [56] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [54] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [54]
+Underfill[A]: [55] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [55] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [55]
+Underfill[A]: [56] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [56] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [56]
-Underfill[A]: [57] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [57] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [57] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [57] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [57]
-Underfill[A]: [58] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [58] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [58] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [58]
-Underfill[A]: [59] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [59] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [59] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [59] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [59]
-Underfill[A]: [60] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [60] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [60] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [60] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [60] [61]
-Underfill[A]: [62] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [62] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [62] [63] [64]
-Underfill[B]: [65] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [65]
-Underfill[A]: [66] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [66] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [66]
-Underfill[B]: [67] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [62] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+ [62]
+Underfill[A]: [63] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [63]
+Underfill[B]: [64] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [64]
+Underfill[A]: [65] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [65] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [65] [66]
+Underfill[A]: [67] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [67] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [67]
-Underfill[A]: [68] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [68] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [68]
-Underfill[A]: [69] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [69] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [69]
-Underfill[A]: [70] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [70] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [70]
-Underfill[A]: [71] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [71] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [71]
-Underfill[A]: [72] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [72] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [68] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [68] [69]
+Underfill[B]: [70] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [70] [71]
+Underfill[A]: [72] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [72] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [72]
-Underfill[B]: [73] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [73] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [73]
-Underfill[B]: [74] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [74] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [74]
-Underfill[A]: [75] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [75] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [75]
-Underfill[A]: [76] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [76] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
- [76]
-Underfill[B]: [77] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [77]
-Underfill[A]: [78] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [78]
-Underfill[A]: [79] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [79]
-Underfill[A]: [80] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [80] [81]
-Underfill[A]: [82] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [82] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [75] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [75] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [75] [76] [77]
+Underfill[A]: [78] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [78] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [78] [79] [80]
+Underfill[B]: [81] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+ [81]
+Underfill[A]: [82] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [82] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [82]
-Underfill[A]: [83] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [83] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
  [83]
-Underfill[A]: [84] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
-Underfill[B]: [84] ht=482.99579pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [84] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [84]
-Underfill[B]: [85] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [85]
-Underfill[A]: [86] ht=496.99567pt, space=503.99754pt, baseline=13.99988pt
- [86])
-Underfill[B]: [87] ht=237.99792pt, space=258.99774pt, baseline=13.99988pt
+Underfill[B]: [85] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [85] [86]
+Underfill[B]: [87] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [87]
+Underfill[A]: [88] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [88]
+Underfill[A]: [89] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [89] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [89]
+Underfill[A]: [90] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [90]
+Underfill[A]: [91] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [91]
+Underfill[A]: [92] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [92] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+ [92]
+Underfill[A]: [93] ht=461.99597pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [93] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [93] [94]
+Underfill[A]: [95] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [95] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [95] [96]
+Underfill[A]: [97] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [97]
+Underfill[A]: [98] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [98]
+Underfill[A]: [99] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [99] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [99] [100] [101]
+Underfill[A]: [102] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [102] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [102]
+Underfill[A]: [103] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [103] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [103]
+Underfill[A]: [104] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [104]
+Underfill[B]: [105] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+ [105]
+Underfill[A]: [106] ht=475.99585pt, space=503.99754pt, baseline=13.99988pt
+Underfill[B]: [106] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
+ [106] [107])
+Underfill[B]: [108] ht=125.9989pt, space=139.99878pt, baseline=13.99988pt
+ [108]
 \openout0 = `AKJV-github-last_Default_GEN_ptxp.delayed'.
 
  (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.parlocs)
@@ -721,17 +740,17 @@ Underfill[B]: [87] ht=237.99792pt, space=258.99774pt, baseline=13.99988pt
 
 \openout2 = `.tex'.
 
- Elapsed time: 2.97421s (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.notepages) (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.picpages) ) 
+ Elapsed time: 2.76945s (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.notepages) (/work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/AKJV-github-last_Default_GEN_ptxp.picpages) ) 
 Here is how much of TeX's memory you used:
- 13179 strings out of 495016
- 196099 string characters out of 12441608
- 506201 words of memory out of 5000000
- 16977 multiletter control sequences out of 15000+600000
+ 13194 strings out of 495016
+ 196005 string characters out of 12441608
+ 470997 words of memory out of 5000000
+ 16994 multiletter control sequences out of 15000+600000
  4834 words of font info for 27 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 65521
  74i,15n,139p,707b,330s stack positions out of 30000i,1000n,20000p,200000b,200000s
 
-Output written on AKJV-github-last_Default_GEN_ptxp.xdv (87 pages, 3148172 bytes).
+Output written on AKJV-github-last_Default_GEN_ptxp.xdv (108 pages, 3137064 bytes).
 
 XeTeX Log Summary: Info: 4   Warn: 1   Error: 0
-75 underfilled pages: 1-6, 8-27, 29-30, 32-36, 39, 41-43, 45-54, 56-60, 62, 65-80, 82-87
+85 underfilled pages: 1-3, 6-10, 12-23, 25-30, 32-43, 47-49, 51-60, 62-65, 67-68, 70, 72-75, 78, 81-85, 87-93, 95, 97-99, 102-106, 108

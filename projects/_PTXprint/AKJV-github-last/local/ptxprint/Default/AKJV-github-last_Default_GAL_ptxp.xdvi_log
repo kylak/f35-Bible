@@ -1,0 +1,21 @@
+<FONTMAP:/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map><FONTMAP:/var/lib/texmf/fonts/map/dvipdfmx/updmap/kanjix.map><FONTMAP:/usr/share/texlive/texmf-dist/fonts/map/dvipdfmx/ckx.map>DVI Comment: "date=2026-10-08T21:39:36.977852 ptxprint_version=3.0.38 run=0"
+AKJV-github-last_Default_GAL_ptxp.xdv -> /work/projects/_PTXprint/AKJV-github-last/local/ptxprint/Default/../AKJV-github-last_Default_GAL_ptxp.pdf
+<AGL:texglyphlist.txt><AGL:pdfglyphlist.txt><AGL:glyphlist.txt>[1</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf@14.61pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Italic)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0,1>.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf@18.26pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Bold)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0,3>.
+></usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf@30.95pt<NATIVE-FONTMAP:/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf/0/H/65536/0/0>(CID:GentiumBookPlus)
+pdf_font>> Type0 font "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf" cmap_id=<Identity-H,0> font_id=</usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf/0/H/65536/0/0,5>.
+></usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf@10.96pt
+pdf_font>> Font "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf/0/H/65536/0/0" (enc_id=0) found at id=5.
+></usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf@8.22pt
+pdf_font>> Font "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf/0/H/65536/0/0" (enc_id=0) found at id=5.
+>][2][3][4][5][6][7][8][9][10][Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf"...
+[Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf"...
+[Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf"...
+:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf[CIDFontType0]:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf[CIDFontType0]:/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf[CIDFontType2]
+Compression saved 106594 bytes
+82833 bytes written

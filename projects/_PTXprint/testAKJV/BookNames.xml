@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookNames>
+  <book code="GEN" long="Genesis" abbr="Gen"/>
+  <book code="EXO" long="Exodus" abbr="Ex"/>
+  <book code="LEV" long="Leviticus" abbr="Lev"/>
+  <book code="NUM" long="Numbers" abbr="Num"/>
+  <book code="DEU" long="Deuteronomy" abbr="Dt"/>
+  <book code="JOS" long="Joshua" abbr="Josh"/>
+  <book code="JDG" long="Judges" abbr="Jud"/>
+  <book code="RUT" long="Ruth" abbr="Ruth"/>
+  <book code="1SA" long="1 Samuel" abbr="1Sam"/>
+  <book code="2SA" long="2 Samuel" abbr="2Sam"/>
+  <book code="1KI" long="1 Kings" abbr="1Ki"/>
+  <book code="2KI" long="2 Kings" abbr="2Ki"/>
+  <book code="1CH" long="1 Chronicles" abbr="1Chr"/>
+  <book code="2CH" long="2 Chronicles" abbr="2Chr"/>
+  <book code="EZR" long="Ezra" abbr="Ezra"/>
+  <book code="NEH" long="Nehemiah" abbr="Neh"/>
+  <book code="EST" long="Esther" abbr="Est"/>
+  <book code="JOB" long="Job" abbr="Job"/>
+  <book code="PSA" long="Psalms" abbr="Ps"/>
+  <book code="PRO" long="Proverbs" abbr="Prov"/>
+  <book code="ECC" long="Ecclesiastes" abbr="Eccl"/>
+  <book code="SNG" long="Song of Songs" abbr="Song"/>
+  <book code="ISA" long="Isaiah" abbr="Isa"/>
+  <book code="JER" long="Jeremiah" abbr="Jer"/>
+  <book code="LAM" long="Lamentations" abbr="Lam"/>
+  <book code="EZK" long="Ezekiel" abbr="Ezek"/>
+  <book code="DAN" long="Daniel" abbr="Dan"/>
+  <book code="HOS" long="Hosea" abbr="Hos"/>
+  <book code="JOL" long="Joel" abbr="Joel"/>
+  <book code="AMO" long="Amos" abbr="Amos"/>
+  <book code="OBA" long="Obadiah" abbr="Obad"/>
+  <book code="JON" long="Jonah" abbr="Jon"/>
+  <book code="MIC" long="Micah" abbr="Mic"/>
+  <book code="NAM" long="Nahum" abbr="Nah"/>
+  <book code="HAB" long="Habakkuk" abbr="Hab"/>
+  <book code="ZEP" long="Zephaniah" abbr="Zeph"/>
+  <book code="HAG" long="Haggai" abbr="Hag"/>
+  <book code="ZEC" long="Zechariah" abbr="Zech"/>
+  <book code="MAL" long="Malachi" abbr="Mal"/>
+  <book code="MAT" long="Matthew" abbr="Mt"/>
+  <book code="MRK" long="Mark" abbr="Mk"/>
+  <book code="LUK" long="Luke" abbr="Lk"/>
+  <book code="JHN" long="John" abbr="Jn"/>
+  <book code="ACT" long="Acts" abbr="Acts"/>
+  <book code="ROM" long="Romans" abbr="Rom"/>
+  <book code="1CO" long="1 Corinthians" abbr="1Cor"/>
+  <book code="2CO" long="2 Corinthians" abbr="2Cor"/>
+  <book code="GAL" long="Galatians" abbr="Gal"/>
+  <book code="EPH" long="Ephesians" abbr="Eph"/>
+  <book code="PHP" long="Philippians" abbr="Phil"/>
+  <book code="COL" long="Colossians" abbr="Col"/>
+  <book code="1TH" long="1 Thessalonians" abbr="1Th"/>
+  <book code="2TH" long="2 Thessalonians" abbr="2Th"/>
+  <book code="1TI" long="1 Timothy" abbr="1Tim"/>
+  <book code="2TI" long="2 Timothy" abbr="2Tim"/>
+  <book code="TIT" long="Titus" abbr="Ti"/>
+  <book code="PHM" long="Philemon" abbr="Phile"/>
+  <book code="HEB" long="Hebrews" abbr="Heb"/>
+  <book code="JAS" long="James" abbr="Jas"/>
+  <book code="1PE" long="1 Peter" abbr="1Pet"/>
+  <book code="2PE" long="2 Peter" abbr="2Pet"/>
+  <book code="1JN" long="1 John" abbr="1Jn"/>
+  <book code="2JN" long="2 John" abbr="2Jn"/>
+  <book code="3JN" long="3 John" abbr="3Jn"/>
+  <book code="JUD" long="Jude" abbr="Jude"/>
+  <book code="REV" long="Revelation" abbr="Rev"/>
+  <book code="FRT" short="Title page" abbr="Title"/>
+  <book code="GLO" abbr="Appendix"/>
+</BookNames>

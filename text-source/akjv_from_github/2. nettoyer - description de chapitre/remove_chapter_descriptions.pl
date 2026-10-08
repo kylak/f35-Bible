@@ -51,7 +51,7 @@ use FindBin qw($Bin);
 use File::Temp qw(tempdir);
 use File::Find qw(find);
 
-my $default_src_zip = "$Bin/../1. compiler/ENG-B-AKJV2018-pd-PSFM-master-usfm.zip";
+my $default_src_zip = "$Bin/../2. nettoyer/ENG-B-AKJV2018-pd-PSFM-master-usfm-vpl.zip";
 
 # ---------------------------------------------------------------------------
 # Interpret the command line
