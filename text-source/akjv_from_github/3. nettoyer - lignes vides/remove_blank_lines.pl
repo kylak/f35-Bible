@@ -22,6 +22,22 @@
 #   Nothing else is touched: each verse keeps its own line, the leading "\m" and
 #   any ¶ pilcrow are kept, and the "\c N" chapter lines stay where they are.
 #
+# Special case — Psalms:
+#   In the Psalms every chapter is a separate psalm, so running them together
+#   ("... perish." then straight to "\c 2") makes one psalm flow into the next.
+#   For 19-PSA.usfm only, this script therefore puts a blank "\b" line between
+#   chapters, just before each "\c N" that follows a verse line:
+#
+#       \m \v 6 For the LORD knows the way of the righteous: but the way of
+#       the ungodly shall perish.
+#       \b
+#       \c 2
+#       \m \v 1 Why do the heathen rage, ...
+#
+#   The verses inside a psalm stay tight (no "\b"), and there is no blank line
+#   before "\c 1" (it follows the book title, not a psalm).  All other books
+#   keep the plain no-blank-line-between-chapters layout.
+#
 # What it keeps:
 #   Only a "\b" that directly follows a verse line ("\m ...") is dropped.  The
 #   blank lines used in the front matter (after "\toc3 Title", "\imt1 ...",
@@ -38,8 +54,9 @@
 #   perl remove_blank_lines.pl <src_dir> [<out_dir>]  # *.usfm / *.USFM files.
 #
 # Output keeps the input file names (e.g. 01-GEN.usfm), so a diff shows only the
-# removed \b lines.  Requires the Info-ZIP 'zip' and 'unzip' commands in zip
-# mode only; directory mode needs neither.
+# removed \b lines (and, for 19-PSA.usfm, the \b line added between each
+# chapter).  Requires the Info-ZIP 'zip' and 'unzip' commands in zip mode only;
+# directory mode needs neither.
 
 use strict;
 use warnings;
@@ -77,14 +94,19 @@ sub clean_files {
     mkdir $out_dir unless -d $out_dir;
 
     my @out_files;
-    my $total_removed = 0;
+    my $total_removed  = 0;
+    my $total_inserted = 0;
     for my $f (sort @in_files) {
         open my $in, '<', $f or die "Cannot read $f: $!\n";
 
         (my $base = $f) =~ s!.*/!!;
         open my $out, '>', "$out_dir/$base" or die "Cannot write $out_dir/$base: $!\n";
 
-        my $removed = 0;
+        # In the Psalms, keep a blank line between chapters (each psalm).
+        my $is_psalms = $base =~ /-PSA\.usfm\z/i;
+
+        my $removed  = 0;
+        my $inserted = 0;
         my $prev = '';        # the last line actually written
         while (my $line = <$in>) {
             # A "\b" line is a blank-line paragraph marker and always starts its
@@ -96,17 +118,28 @@ sub clean_files {
                 $removed++;
                 next;
             }
+            # In the Psalms, put a blank "\b" line between chapters: right
+            # before every "\c N" that follows a verse line (so not before
+            # "\c 1", which follows the book title).
+            if ($is_psalms && $line =~ /^\\c\b/ && $prev =~ /^\\m\b/) {
+                print {$out} "\\b\n";
+                $inserted++;
+            }
             print {$out} $line;
             $prev = $line;
         }
         close $in;
         close $out;
         push @out_files, "$out_dir/$base";
-        $total_removed += $removed;
-        printf "%-42s -> %-16s (%d blank line%s removed)\n",
-            $base, $base, $removed, $removed == 1 ? '' : 's';
+        $total_removed  += $removed;
+        $total_inserted += $inserted;
+        my $note = sprintf "%d blank line%s removed", $removed, $removed == 1 ? '' : 's';
+        $note .= sprintf ", %d added between chapters", $inserted if $is_psalms;
+        printf "%-42s -> %-16s (%s)\n", $base, $base, $note;
     }
-    print "\nDone. ", scalar(@in_files), " files cleaned in $out_dir/ ($total_removed \\b lines removed)\n";
+    print "\nDone. ", scalar(@in_files), " files cleaned in $out_dir/ ($total_removed \\b lines removed";
+    print $total_inserted ? ", $total_inserted added between chapters" : '';
+    print ")\n";
     return @out_files;
 }
 
