@@ -37,6 +37,7 @@
 #   \mte9 ~              -> \rem ~    (page-end placeholder)
 #   \cn ~                -> \rem ~    (non-standard marker; page-end placeholder)
 #   \periph X            -> \rem X    (see note below)
+#   \m ... \ie (in GLO)  -> \ip ... \ie (Word List intro -> full-width intro; see note below)
 #
 # Note on \periph: PTXprint's USFM import round-trips the text through USX
 # (usfmtc). Its parser treats \periph as an "internal" marker that does NOT
@@ -50,8 +51,19 @@
 # sections are needed later, add them in PTXprint itself (\periph Name|id="..."
 # placed directly after \id or another \periph line).
 #
+# Note on the 95-GLO Word List introduction: the source carries the appendix
+# introduction as a body paragraph, e.g. "\m Following is the list of archaic
+# KJV words ...", placed between the \mt3 "Word List" title and the \ie
+# marker that ends the book introduction.  Because the glossary body is
+# typeset in two columns, that \m paragraph is confined to the first column
+# (i.e. only half the page).  ptx2pdf treats markers beginning with "i" (such
+# as \ip, "introduction paragraph") as introduction material and typesets them
+# full width (\IntroColumns), so this paragraph is converted to \ip; the \ie
+# then returns to the normal body, leaving the word list itself untouched.
+#
 # All other markers (\v \p \c \cd \m \d \qa \imi \iqt \is1 \cl \bd \iq \ie \sig ...)
-# are already valid USFM 3 and pass through unchanged.
+# are already valid USFM 3 and pass through unchanged (except the 95-GLO
+# introduction paragraph, converted from \m to \ip as described above).
 
 use strict;
 use warnings;
@@ -107,6 +119,12 @@ sub convert_files {
 
         open my $out, '>', "$out_dir/$out_name" or die "Cannot write $out_dir/$out_name: $!";
 
+        # In 95-GLO, the paragraph between the \mt title and \ie is the book
+        # introduction (see note in the header).  Track that region so it can
+        # be mapped to an introduction marker, \ip, instead of a body \m.
+        my $is_glo   = $out_name =~ /-GLO\.usfm\z/i;
+        my $in_intro = 0;
+
         my $changed = 0;
         while (my $line = <$in>) {
             my $orig = $line;
@@ -115,6 +133,19 @@ sub convert_files {
             # \nh* -> \sig* must run before \nh -> \sig
             $line =~ s/\\nh\*/\\sig\*/g;
             $line =~ s/\\nh/\\sig/g;
+
+            # --- \m introduction paragraph in 95-GLO -> \ip ---
+            if ($is_glo) {
+                if ($line =~ /^\\mt\d/) {
+                    $in_intro = 1;
+                }
+                elsif ($line =~ /^\\ie\b/) {
+                    $in_intro = 0;
+                }
+                elsif ($in_intro && $line =~ /^\\m(?=\s|$)/) {
+                    $line =~ s/^\\m/\\ip/;
+                }
+            }
 
             # --- paragraph markers (line start) ---
             $line =~ s/^\\b(\d)(.*)$/\\b$2/;      # \b2 \b3
