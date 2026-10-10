@@ -1,0 +1,5 @@
+\defTOC{main}{
+\doTOCline{GEN}{Genesis}{}{}{1}
+\doTOCline{JOB}{Job}{}{}{94}
+\doTOCline{EXO}{Exodus}{}{}{141}
+}

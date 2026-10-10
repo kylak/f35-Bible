@@ -1,0 +1,35 @@
+\id FRT
+\periph Title Page|id="title"
+\nopagenums
+\zgap|1.5in\*
+\mt1 \zvar|maintitle\*
+\mt2 \zvar|subtitle\*
+\periph Publication Data|id="pubdata"
+\zgap|0.5in\*
+\mt3 \zvar|maintitle\*
+\mt4 \zvar|subtitle\*
+\pc \zvar|languagename\*
+\b
+\b
+\pc \zcopyright
+\pc \zlicense
+\b
+\b
+\pc \zimagecopyrights
+\periph Table of Contents|id="contents"
+\mt3 \zvar|toctitle\*
+\ip \ztoc|main\*
+\resetpagenums -1
+\dopagenums
+\ip
+\periph front|id="coverfront"
+\zgap|68.48mm\*
+\mt1 \zvar|maintitle\*
+\zgap|63.034960629921244mm\*
+\mt3 \zvar|languagename\*
+\vfill
+\endgraf
+\periph back|id="coverback"
+\zgap|1in\*
+\m
+\vfill
