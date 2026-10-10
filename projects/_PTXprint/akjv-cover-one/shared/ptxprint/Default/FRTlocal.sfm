@@ -1,0 +1,11 @@
+\periph front|id="coverfront"
+\zgap|68.48mm\*
+\mt1 \zvar|maintitle\*
+\zgap|63.034960629921244mm\*
+\mt3 \zvar|languagename\*
+\vfill
+\endgraf
+\periph back|id="coverback"
+\zgap|1in\*
+\m 
+\vfill

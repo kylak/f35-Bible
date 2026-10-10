@@ -1,0 +1,13 @@
+<FONTMAP:/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map><FONTMAP:/var/lib/texmf/fonts/map/dvipdfmx/updmap/kanjix.map><FONTMAP:/usr/share/texlive/texmf-dist/fonts/map/dvipdfmx/ckx.map>DVI Comment: "date=2026-10-10T21:37:12.724958 ptxprint_version=3.0.38 run=0"
+akjv-cover-one_Default_INT_ptxp.xdv -> /work/projects/_PTXprint/akjv-cover-one/local/ptxprint/Default/../akjv-cover-one_Default_INT_ptxp.pdf
+<AGL:texglyphlist.txt><AGL:pdfglyphlist.txt><AGL:glyphlist.txt>[1</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf@31.05pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Bold)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf/0/H/65536/0/0,1>.
+></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf@12.38pt<NATIVE-FONTMAP:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0>(CID:TeXGyrePagella-Italic)
+pdf_font>> Type0 font "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf" cmap_id=<Identity-H,0> font_id=</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf/0/H/65536/0/0,3>.
+>][Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf"...
+[Type0]
+otf_cmap>> Creating ToUnicode CMap for "/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf"...
+:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf[CIDFontType0]:/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf[CIDFontType0]
+Compression saved 2060 bytes
+7188 bytes written

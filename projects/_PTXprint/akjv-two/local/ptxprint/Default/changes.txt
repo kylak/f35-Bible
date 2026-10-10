@@ -1,0 +1,7 @@
+
+# Imported from /work/projects/_PTXprint/AKJV/shared/ptxprint/Default
+# This (changes.txt) file is for configuration-specific changes (not affecting other configs).
+# More generic project-wide changes can be specified in PrintDraftChanges.txt.
+include "../../../PrintDraftChanges.txt"
+"\\v " > "\\m\n\\v "
+"\\p[\s\r\n]*\\m" > "\\p"

@@ -53,4 +53,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/4.%20nettoyer%20-%20page%20New%20Testament/ENG-B-AKJV2018-pd-PSFM-master-usfm-vpl-nocd-noblank-nont.zip" added="2026-10-10T21:24:16.284472Z" modified="2026-10-10T22:08:17.633004Z" visited="2026-10-10T21:24:16.284474Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-10-10T22:08:17.633001Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
