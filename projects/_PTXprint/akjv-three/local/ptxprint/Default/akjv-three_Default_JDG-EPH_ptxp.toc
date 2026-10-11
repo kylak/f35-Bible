@@ -1,0 +1,183 @@
+\defTOC{main}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}
+\defTOC{ot}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+}
+\defTOC{nt}{
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}
+\defTOC{dc}{
+}
+\defTOC{pre}{
+}
+\defTOC{post}{
+}
+\defTOC{heb}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+}
+\defTOC{bible}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}
+\defTOC{sorta}{
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{SNG}{Song}{}{}{332}
+}
+\defTOC{biba}{
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{SNG}{Song}{}{}{332}
+}
+\defTOC{sortb}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}
+\defTOC{bibb}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}
+\defTOC{sortc}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}
+\defTOC{bibc}{
+\doTOCline{JDG}{Judges}{}{}{1}
+\doTOCline{RUT}{Ruth}{}{}{47}
+\doTOCline{1SA}{1 Samuel}{}{}{54}
+\doTOCline{2SA}{2 Samuel}{}{}{114}
+\doTOCline{1KI}{1 Kings}{}{}{164}
+\doTOCline{2KI}{2 Kings}{}{}{223}
+\doTOCline{PRO}{Proverbs}{}{}{278}
+\doTOCline{ECC}{Ecclesiastes}{}{}{318}
+\doTOCline{SNG}{Song}{}{}{332}
+\doTOCline{ISA}{Isaiah}{}{}{339}
+\doTOCline{JER}{Jeremiah}{}{}{428}
+\doTOCline{ROM}{Romans}{}{}{530}
+\doTOCline{1CO}{1 Cor.}{}{}{554}
+\doTOCline{2CO}{2 Cor.}{}{}{578}
+\doTOCline{GAL}{Galatians}{}{}{594}
+\doTOCline{EPH}{Ephesians}{}{}{602}
+}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  10 OCT 2026 22:47
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  10 OCT 2026 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -528,7 +528,7 @@ Underfill[A]: [-1] ht=178.40439pt, space=503.99754pt, baseline=13.99988pt
 \openout6 = `akjv-three_Default_GEN-EXO_ptxp.marginnotes'.
 
 ] pagebreak
-Underfill[A]: [-2] ht=246.13316pt, space=503.99754pt, baseline=13.99988pt
+Underfill[A]: [-2] ht=288.1328pt, space=503.99754pt, baseline=13.99988pt
  [-2] starting table cat:toc
 TOC[bibc] col 1 tc1
 \tablecol-1=\box128
@@ -539,7 +539,7 @@ TOC[bibc] col 2 tcr2
 \cell-2=\box131
 \colwidth-2=\dimen157
 
-Overfull \hbox (12.25685pt too wide) in paragraph at lines 21--21
+Overfull \hbox (12.25685pt too wide) in paragraph at lines 23--23
  \font<cat:toc|tcr2-12.0+tr+ztoc> E x o d u s  
 
 \hbox(7.98604+3.091)x23.36418, glue set - 1.0
@@ -566,7 +566,7 @@ Overfull \hbox (12.25685pt too wide) in paragraph at lines 21--21
 .\glue(\rightskip) 0.0 plus 1.0fil
 
 
-Overfull \hbox (13.49384pt too wide) in paragraph at lines 21--21
+Overfull \hbox (13.49384pt too wide) in paragraph at lines 23--23
  \font<cat:toc|tcr2-12.0+tr+ztoc> G e n e s i s  
 
 \hbox(7.98604+3.091)x23.36418, glue set - 1.0
@@ -972,17 +972,17 @@ Underfill[A]: [218] ht=377.9967pt, space=391.99658pt, baseline=13.99988pt
  [218] r=> 0/ 1 coverback: 75.06995pt+0.0pt* 0.0pt coverfront: 488.84189pt+0.0pt* 331.10078pt coverwhole: 597.50787pt+0.0pt* 842.20157pt [219]
 \openout0 = `akjv-three_Default_GEN-EXO_ptxp.delayed'.
 
- (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-EXO_ptxp.parlocs) Elapsed time: 6.33046s (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-EXO_ptxp.notepages) (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-EXO_ptxp.picpages) ) 
+ (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-EXO_ptxp.parlocs) Elapsed time: 6.40668s (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-EXO_ptxp.notepages) (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-EXO_ptxp.picpages) ) 
 Here is how much of TeX's memory you used:
  15750 strings out of 495016
  224917 string characters out of 12441608
- 512308 words of memory out of 5000000
+ 512412 words of memory out of 5000000
  19525 multiletter control sequences out of 15000+600000
  4850 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 65521
  74i,15n,139p,705b,1339s stack positions out of 30000i,1000n,20000p,200000b,200000s
 
-Output written on akjv-three_Default_GEN-EXO_ptxp.xdv (223 pages, 7332232 bytes).
+Output written on akjv-three_Default_GEN-EXO_ptxp.xdv (223 pages, 7334176 bytes).
 
 XeTeX Log Summary: Info: 4   Warn: 1   Error: 0
 155 underfilled pages: 1-4, 8-11, 13-14, 16-20, 22, 24-26, 28-29, 32-33, 35-36, 38-42, 44, 46, 49, 52-53, 58-60, 62-63, 65-74, 77, 79, 81-90, 92-95, 97-99, 101-102, 104-132, 134, 136-139, 141-142, 145-147, 149, 151-152, 154-155, 158, 160-161, 163, 165-167, 170-171, 173-180, 183-184, 187, 190, 193, 196-197, 199-201, 203-206, 209-210, 212-218

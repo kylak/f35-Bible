@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  10 OCT 2026 22:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  11 OCT 2026 00:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,13 +479,15 @@ Reading optional file "pgflibraryvectorian.code.tex"
 \notesave2-ex=\box104
 \notesave3-ex=\box105
 \refn@te-ex=\count144
- ] [\esb ] [\esbe ] [\erq ] [\erqe ] [\cat ] [\qt ] [\nd ] [\tl ] [\dc ] [\bk ] [\sig ] [\pn ] [\png ] [\addpn ] [\wj ] [\k ] [\sls ] [\ord ] [\add ] [\lit ] [\no ] [\it ] [\bd ] [\bdit ] [\em ] [\sc ] [\sup ] [\pb ] [\fig ] [\jmp ] [\pro ] [\rb ] [\w ] [\wh ] [\wg ] [\wa ] [\ndx ] [\periph ] [\p1 ] [\p2 ] [\k1 ] [\k2 ] [\xtSee ] [\xtSeeAlso ] [\qt-s ] [\qt1-s ] [\qt2-s ] [\qt3-s ] [\qt4-s ] [\qt5-s ] [\ts-s ] [\ph ] [\ph1 ] [\ph2 ] [\ph3 ] [\phi ] [\tr1 ] [\tr2 ] [\ps ] [\psi ] [\wr ] [\pub ] [\toc ] [\pref ] [\intro ] [\conc ] [\glo ] [\idx ] [\maps ] [\cov ] [\spine ] [\pubinfo ] [\zpa-xb ] [\zpa-xc ] [\zpa-xv ] [\zpa-d ] Reading Paratext stylesheet "ptx2pdf.sty" ()... [\k [\imt [\imt1 [\imt2 [\imt3 [\imt4 [\imte [\imte1 [\imte2 [\is [\is1 [\is2 [\iot [\io1 [\io2 [\io3 [\io4 [\ip [\im [\ipi [\imi [\ili [\ili1 [\ili2 [\ipq [\imq [\ipr [\ib [\iq [\iq1 [\iq2 [\iq3 [\iex [\ie [\mt [\mt1 [\mt2 [\mt3 [\mt4 [\p [\m [\ms [\b [\ib [\pi [\pi1 [\pi2 [\pi3 [\pc [\mi [\nb [\pn [\nd [\r [\s [\s1 [\s1e [\s2 [\s2e [\s3 [\s3e [\s4 [\s4e [\sr [\d [\lh [\li [\li1 [\li2 [\li3 [\li4 [\pb [\q [\q1 [\q2 [\q3 [\q4 [\qc [\qr [\pi [\pi1 [\pi2 [\pi3 [\tr [\p1 [\p2 [\v [\f [\fr [\fp ] [\fq [\fqa [\fk [\ft [\fv [\fm [\fdc [\x [\xo [\xq [\xk [\xdc [\xot [\xnt [\xt [\iqt [\pmo [\pm [\pmc [\qs [\rq [\pro [\wr [\wh [\wg [\wl ] [\fig [\periph [\rem [\rb ] [\it [\sc [\no [\bd [\bdit [\em [\cat [\err ] [\inc ] [\vrs ] [\ref ] [\refnp ] [\rep ] [\mod ] [\qt-s [\ampersand ] [\asterisk ] [\circumflex ] [\dollar ] [\dopagenums ] [\zfooter ] [\hash ] [\nopagenums ] [\percent ] [\resetpagenums ] [\space ] [\zNeedOddPage ] [\zNeedEvenPage ] [\zNeedQuadPage ] [\xtd ] [\xtl ] [\xtn ] [\xts ] [\xtr ] [\xti ] [\gloss|rb ] [\zthumbtab ] [\cat:colophon|esb [\zimagecopyrights ] [\zfiga ] [\zpdf ] [\zifvarset ] [\zifhook ] [\ztruetext ] [\zfalsetext ] [\ztoc ] [\zfillsignature ] [\zvar ] [\zgetperiph ] [\zISBNbarcode ] [\x-credit [\Dark|x-credit [\Light|x-credit [\None|x-credit [\toc3 [\zbl ] [\zrule ] [\zmakeinsert ] [\zrule ] [\zmvm ] [\zqrcode ] [\zgap ] [\zsetref ] [\vid ] [\zlabel ] [\zpage ] [\zref ] [\zcustommark ] [\zcustomtopmark ] [\zcustombotmark ] [\zcustomfirstmark ] [\zornament ] [\textborder [\id:INT|textborder [\id:GLO|textborder [\id:GLO|p ] [\strong-s ] [\strong-s+li ] [\strong-s+m ] [\wg+strong-s ] [\wh+strong-s ] [\wl+strong-s ] [\xt+strong-s ] [\k+strong-s ] [\cat:toc|tr [\cat:lot|tr [\cat:toc|tc1 [\cat:lot|tc1 [\cat:box|esb [\zglm ] [\zpmkr ] [\th1 [\th2 [\th3 [\th4 [\th5 [\th6 [\th7 [\th8 [\tc1 [\cat:toc|tc1 [\tc2 [\tc3 [\tc4 [\tc5 [\tc6 [\tc7 [\tc8 [\toc1 [\toc2 [\toc3 [\ldrs ] [\cat:coverwhole|esb [\cat:coverspine|esb [\cat:coverfront|esb [\cat:coverback|esb [\cat:coverback|m ] [\cat:ISBNbox|esb [\zcolsync ] [\zlistentry ] [\cat:coverfront|mt1 ] [\cat:coverfront|mt2 ] [\cat:coverspine|mt1 ] [\cat:coverspine|mt2 ] [\cat:titlebox|esb [\cat:headingsbox|esb [\zbn ] [\zbn2 ] Reading Paratext stylesheet "../../../shared/ptxprint/Default/ptxprint.sty" ()... [\+maj ] [\add [\c [\cat:coverfront|esb [\cat:coverfront|mt1 [\cat:coverfront|mt2 [\mt3 [\nb [\p [\zmaj ]
+ ] [\esb ] [\esbe ] [\erq ] [\erqe ] [\cat ] [\qt ] [\nd ] [\tl ] [\dc ] [\bk ] [\sig ] [\pn ] [\png ] [\addpn ] [\wj ] [\k ] [\sls ] [\ord ] [\add ] [\lit ] [\no ] [\it ] [\bd ] [\bdit ] [\em ] [\sc ] [\sup ] [\pb ] [\fig ] [\jmp ] [\pro ] [\rb ] [\w ] [\wh ] [\wg ] [\wa ] [\ndx ] [\periph ] [\p1 ] [\p2 ] [\k1 ] [\k2 ] [\xtSee ] [\xtSeeAlso ] [\qt-s ] [\qt1-s ] [\qt2-s ] [\qt3-s ] [\qt4-s ] [\qt5-s ] [\ts-s ] [\ph ] [\ph1 ] [\ph2 ] [\ph3 ] [\phi ] [\tr1 ] [\tr2 ] [\ps ] [\psi ] [\wr ] [\pub ] [\toc ] [\pref ] [\intro ] [\conc ] [\glo ] [\idx ] [\maps ] [\cov ] [\spine ] [\pubinfo ] [\zpa-xb ] [\zpa-xc ] [\zpa-xv ] [\zpa-d ] Reading Paratext stylesheet "ptx2pdf.sty" ()... [\k [\imt [\imt1 [\imt2 [\imt3 [\imt4 [\imte [\imte1 [\imte2 [\is [\is1 [\is2 [\iot [\io1 [\io2 [\io3 [\io4 [\ip [\im [\ipi [\imi [\ili [\ili1 [\ili2 [\ipq [\imq [\ipr [\ib [\iq [\iq1 [\iq2 [\iq3 [\iex [\ie [\mt [\mt1 [\mt2 [\mt3 [\mt4 [\p [\m [\ms [\b [\ib [\pi [\pi1 [\pi2 [\pi3 [\pc [\mi [\nb [\pn [\nd [\r [\s [\s1 [\s1e [\s2 [\s2e [\s3 [\s3e [\s4 [\s4e [\sr [\d [\lh [\li [\li1 [\li2 [\li3 [\li4 [\pb [\q [\q1 [\q2 [\q3 [\q4 [\qc [\qr [\pi [\pi1 [\pi2 [\pi3 [\tr [\p1 [\p2 [\v [\f [\fr [\fp ] [\fq [\fqa [\fk [\ft [\fv [\fm [\fdc [\x [\xo [\xq [\xk [\xdc [\xot [\xnt [\xt [\iqt [\pmo [\pm [\pmc [\qs [\rq [\pro [\wr [\wh [\wg [\wl ] [\fig [\periph [\rem [\rb ] [\it [\sc [\no [\bd [\bdit [\em [\cat [\err ] [\inc ] [\vrs ] [\ref ] [\refnp ] [\rep ] [\mod ] [\qt-s [\ampersand ] [\asterisk ] [\circumflex ] [\dollar ] [\dopagenums ] [\zfooter ] [\hash ] [\nopagenums ] [\percent ] [\resetpagenums ] [\space ] [\zNeedOddPage ] [\zNeedEvenPage ] [\zNeedQuadPage ] [\xtd ] [\xtl ] [\xtn ] [\xts ] [\xtr ] [\xti ] [\gloss|rb ] [\zthumbtab ] [\cat:colophon|esb [\zimagecopyrights ] [\zfiga ] [\zpdf ] [\zifvarset ] [\zifhook ] [\ztruetext ] [\zfalsetext ] [\ztoc ] [\zfillsignature ] [\zvar ] [\zgetperiph ] [\zISBNbarcode ] [\x-credit [\Dark|x-credit [\Light|x-credit [\None|x-credit [\toc3 [\zbl ] [\zrule ] [\zmakeinsert ] [\zrule ] [\zmvm ] [\zqrcode ] [\zgap ] [\zsetref ] [\vid ] [\zlabel ] [\zpage ] [\zref ] [\zcustommark ] [\zcustomtopmark ] [\zcustombotmark ] [\zcustomfirstmark ] [\zornament ] [\textborder [\id:INT|textborder [\id:GLO|textborder [\id:GLO|p ] [\strong-s ] [\strong-s+li ] [\strong-s+m ] [\wg+strong-s ] [\wh+strong-s ] [\wl+strong-s ] [\xt+strong-s ] [\k+strong-s ] [\cat:toc|tr [\cat:lot|tr [\cat:toc|tc1 [\cat:lot|tc1 [\cat:box|esb [\zglm ] [\zpmkr ] [\th1 [\th2 [\th3 [\th4 [\th5 [\th6 [\th7 [\th8 [\tc1 [\cat:toc|tc1 [\tc2 [\tc3 [\tc4 [\tc5 [\tc6 [\tc7 [\tc8 [\toc1 [\toc2 [\toc3 [\ldrs ] [\cat:coverwhole|esb [\cat:coverspine|esb [\cat:coverfront|esb [\cat:coverback|esb [\cat:coverback|m ] [\cat:ISBNbox|esb [\zcolsync ] [\zlistentry ] [\cat:coverfront|mt1 ] [\cat:coverfront|mt2 ] [\cat:coverspine|mt1 ] [\cat:coverspine|mt2 ] [\cat:titlebox|esb [\cat:headingsbox|esb [\zbn ] [\zbn2 ] Reading Paratext stylesheet "../../../shared/ptxprint/Default/ptxprint.sty" ()... [\+maj ] [\add [\c [\cat:coverfront|esb [\cat:coverfront|mt1 [\cat:coverfront|mt2 [\cat:coverspine|esb [\mt3 [\nb [\p [\zmaj ]
 \intercharskip=\skip22
  (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.notepages)
 \openout4 = `akjv-three_Default_GEN-GLO_ptxp.notepages'.
 
 \langund=\language1
- snippet 1 ptxfile akjv-three_Default_GEN-GLO_ptxp_FRT.SFM monoglot,
+ snippet 1
+Reading optional file "akjv-three_Default_GEN-GLO_ptxp.toc"
+ (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.toc) ptxfile akjv-three_Default_GEN-GLO_ptxp_FRT.SFM monoglot,
 Baselineskip for p was undefined, now set  to 13.99988pt(13.99988pt)
  lineskiplimit=-10.49991pt
 \baselineskip =13.99988pt, topskip=13.99988pt
@@ -514,7 +516,6 @@ Baselineskip for p was undefined, now set  to 13.99988pt(13.99988pt)
 \savetopinscol=\box125
 \savetopinschunk=\box126
 \savetopinsnxtpg=\box127
- [\cat:toc|tc1 ] [\cat:toc|tc2 ] [\cat:toc|tc3 ] [\cat:toc|tc4 ]
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/akjv-three_Default_GEN-GLO_ptxp_FRT.SFM.adj" found)
 (no picture list "akjv-three_Default_GEN-GLO_ptxp_FRT.SFM.piclist" found)
  (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.picpages)
@@ -527,13 +528,58 @@ Underfill[A]: [-1] ht=178.40439pt, space=503.99754pt, baseline=13.99988pt
 \openout6 = `akjv-three_Default_GEN-GLO_ptxp.marginnotes'.
 
 ] pagebreak
-Underfill[A]: [-2] ht=246.13316pt, space=503.99754pt, baseline=13.99988pt
- [-2] pagebreak
-Underfill[A]: [-1] ht=55.99951pt, space=503.99754pt, baseline=13.99988pt
- [-1]) Blank page for 3 [-2] ptxfile 01GENakjv-three-Default.USFM monoglot,
+Underfill[A]: [-2] ht=288.1328pt, space=503.99754pt, baseline=13.99988pt
+ [-2] starting table cat:toc
+TOC[bibc] col 1 tc1
+\tablecol-1=\box128
+\cell-1=\box129
+\colwidth-1=\dimen156
+TOC[bibc] col 2 tcr2
+\tablecol-2=\box130
+\cell-2=\box131
+\colwidth-2=\dimen157
+
+Overfull \hbox (13.3338pt too wide) in paragraph at lines 23--23
+ \font<cat:toc|tcr2-12.0+tr+ztoc> A p p e n d i x  
+
+\hbox(7.98604+3.091)x34.55122, glue set - 1.0
+.\glue(\leftskip) 14.45404
+.\kern -14.45404
+.\font<cat:toc|tcr2-12.0+tr+ztoc> A
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> p
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> p
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> e
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> n
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> d
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> i
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|tcr2-12.0+tr+ztoc> x
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 2.0fil
+.\glue(\rightskip) 0.0 plus 1.0fil
+
+[-1] pagebreak
+Underfill[A]: [-2] ht=493.08673pt, space=503.99754pt, baseline=13.99988pt
+ [-2]) ptxfile 01GENakjv-three-Default.USFM monoglot,
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/01GENakjv-three-Default.USFM.adj" found)
 (no picture list "01GENakjv-three-Default.USFM.piclist" found)
- (./01GENakjv-three-Default.USFM First chapter for GEN
+ (./01GENakjv-three-Default.USFM
+\openout2 = `akjv-three_Default_GEN-GLO_ptxp.toc'.
+
+ First chapter for GEN
 Underfill[A]: [1] ht=419.99634pt, space=433.99815pt, baseline=13.99988pt
 Underfill[B]: [1] ht=419.99634pt, space=433.99815pt, baseline=13.99988pt
  [1]
@@ -72205,6 +72251,7 @@ Overfull \vbox (21.59312pt too high) detected at line 625
 ................\hbox(10.75073+4.048)x352.8142, glue set 0.25275
 .................\glue(\leftskip) 0.0 plus 352.8142
 .................\hbox(0.0+0.0)x0.0
+.................\write2{\doTOCline{2JN}{}{}{2Jn}{\the \pageno }}
 .................\beginL
 .................\pdfsavepos
 .................\write0{\noexpand \@parstart {2JN0.1}{title}{mt2}{18.6665pt}{\the \pdflastxpos }{\the \pdflastypos }}
@@ -76229,6 +76276,7 @@ Overfull \vbox (21.59312pt too high) detected at line 626
 ................\hbox(10.75073+4.048)x352.8142, glue set 0.26443
 .................\glue(\leftskip) 0.0 plus 352.8142
 .................\hbox(0.0+0.0)x0.0
+.................\write2{\doTOCline{3JN}{}{}{3Jn}{\the \pageno }}
 .................\beginL
 .................\pdfsavepos
 .................\write0{\noexpand \@parstart {3JN0.1}{title}{mt2}{18.6665pt}{\the \pdflastxpos }{\the \pdflastypos }}
@@ -84647,6 +84695,7 @@ Overfull \vbox (21.59312pt too high) detected at line 59
 ................\hbox(9.11124+3.43068)x352.8142, glue set 0.42606
 .................\glue(\leftskip) 0.0 plus 352.8142
 .................\hbox(0.0+0.0)x0.0
+.................\write2{\doTOCline{GLO}{}{}{Appendix}{\the \pageno }}
 .................\beginL
 .................\pdfsavepos
 .................\write0{\noexpand \@parstart {GLO0.1}{title}{mt3}{15.81985pt}{\the \pdflastxpos }{\the \pdflastypos }}
@@ -113537,22 +113586,17 @@ Underfill[B]: [1992] ht=69.99939pt, space=83.99927pt, baseline=13.99988pt
  [1992] [1993]) [1994] r=> 0/ 1 coverback: 75.06995pt+0.0pt* 0.0pt coverfront: 488.84189pt+0.0pt* 331.10078pt coverwhole: 597.50787pt+0.0pt* 842.20157pt [1995]
 \openout0 = `akjv-three_Default_GEN-GLO_ptxp.delayed'.
 
- (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.parlocs)
-\openout3 = `akjv-three_Default_GEN-GLO_ptxp.lot'.
-
-\openout2 = `.tex'.
-
- Elapsed time: 68.33519s (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.notepages) (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.picpages) ) 
+ (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.parlocs) Elapsed time: 62.01062s (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.notepages) (/work/projects/_PTXprint/akjv-three/local/ptxprint/Default/akjv-three_Default_GEN-GLO_ptxp.picpages) ) 
 Here is how much of TeX's memory you used:
- 43816 strings out of 495016
- 521523 string characters out of 12441608
- 507073 words of memory out of 5000000
- 47272 multiletter control sequences out of 15000+600000
+ 43959 strings out of 495016
+ 522977 string characters out of 12441608
+ 527779 words of memory out of 5000000
+ 47413 multiletter control sequences out of 15000+600000
  4858 words of font info for 30 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 65521
- 74i,15n,139p,705b,1335s stack positions out of 30000i,1000n,20000p,200000b,200000s
+ 88i,15n,139p,705b,2006s stack positions out of 30000i,1000n,20000p,200000b,200000s
 
-Output written on akjv-three_Default_GEN-GLO_ptxp.xdv (1999 pages, 66412428 bytes).
+Output written on akjv-three_Default_GEN-GLO_ptxp.xdv (1999 pages, 66422400 bytes).
 
 XeTeX Log Summary: Info: 0   Warn: 1   Error: 0
 1 underfilled page: 1992
