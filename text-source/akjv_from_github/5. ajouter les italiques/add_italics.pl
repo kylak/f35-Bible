@@ -62,6 +62,7 @@
 #   perl add_italics.pl <src_dir> [<out_dir>] [<kjv.csv>]   # *.usfm / *.USFM files.
 #
 # The KJV text defaults to KJV.csv next to this script.
+# The tests in tests/ run the script on a miniature corpus: prove tests/checking.t
 # The input must be the verse-per-line output of verses_per_line.pl (one verse
 # per \m line); a verse wrapped over several lines is re-joined on one line.
 # Requires the Info-ZIP 'zip' and 'unzip' commands in zip mode only.

@@ -13,16 +13,6 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///work/text-source/greekf35/grcf35_usfm.zip" added="2026-09-15T09:03:21.713343Z" modified="2026-09-15T09:03:21.713354Z" visited="2026-09-15T09:03:21.713345Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/zip"/>
-        <bookmark:applications>
-          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-09-15T09:03:21.713348Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///work/text-source/akjv_from_github/1.%20compiler/ENG-B-AKJV2018-pd-PSFM-master-usfm.zip" added="2026-10-08T19:24:46.893388Z" modified="2026-10-08T19:24:46.893399Z" visited="2026-10-08T19:24:46.893390Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -59,6 +49,16 @@
         <mime:mime-type type="application/zip"/>
         <bookmark:applications>
           <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-10-10T22:08:17.633001Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///work/text-source/akjv_from_github/5.%20ajouter%20les%20italiques/ENG-B-AKJV2018-pd-PSFM-master-usfm-vpl-nocd-noblank-nont-ital.zip" added="2026-10-21T09:57:46.607815Z" modified="2026-10-21T09:57:46.607827Z" visited="2026-10-21T09:57:46.607816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="PTXprint" exec="&apos;org.sil.ptxprint %u&apos;" modified="2026-10-21T09:57:46.607820Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
