@@ -4,9 +4,10 @@
 # Usage:
 #   perl convert_psfm_to_usfm.pl                # zip mode (default):
 #                                               #   use ENG-B-AKJV2018-pd-PSFM-master.zip
-#                                               #   (in the current directory, or next to
-#                                               #   this script), convert the .p.sfm files
-#                                               #   it contains, and write
+#                                               #   from the AKJV_2018 directory at the
+#                                               #   root of the repository (not the copy in
+#                                               #   this script's own directory), convert
+#                                               #   the .p.sfm files it contains, and write
 #                                               #   ENG-B-AKJV2018-pd-PSFM-master-usfm.zip
 #                                               #   in the current directory.
 #   perl convert_psfm_to_usfm.pl <src.zip> [<out.zip>]
@@ -77,6 +78,13 @@ my $default_src_dir = "$Bin/text-source/ENG-B-AKJV2018-pd-PSFM-master/p.sfm";
 my $default_out_dir = "$Bin/text-source/ENG-B-AKJV2018-pd-PSFM-master/usfm";
 my $default_zip     = 'ENG-B-AKJV2018-pd-PSFM-master.zip';
 
+# The source zip is taken from the AKJV_2018 directory at the repository root
+# (this script lives in AKJV_2026/source/1. compiler/, hence the three levels up).
+my @akjv2018_dirs = (
+    "$Bin/../../../AKJV_2018",
+    'AKJV_2018',    # in case the script is run from the repository root copy
+);
+
 # ---------------------------------------------------------------------------
 # Interpret the command line
 # ---------------------------------------------------------------------------
@@ -86,19 +94,20 @@ if (@ARGV >= 1) {
     $out = @ARGV >= 1 ? shift @ARGV : undef;
 }
 else {
-    # zip mode: default to the AKJV source zip, in the current directory
-    # (or, failing that, in the directory where this script lives)
-    if (-f $default_zip) {
-        $src = $default_zip;
+    # zip mode: default to the AKJV source zip found in the AKJV_2018 directory
+    # at the repository root (never the copy sitting next to this script)
+    ($src) = map { "$_/$default_zip" } grep { -f "$_/$default_zip" } @akjv2018_dirs;
+    if (defined $src) {
         print "Using source zip: $src\n";
     }
-    elsif (-f "$Bin/$default_zip") {
-        $src = "$Bin/$default_zip";
-        print "Using source zip: $src\n";
-    }
-    else {
+    elsif (-d $default_src_dir) {
         $src = $default_src_dir;    # directory mode (legacy fallback)
         $out = $default_out_dir;
+    }
+    else {
+        die "AKJV_2018 source zip not found; looked in:\n"
+          . join('', map { "  $_/$default_zip\n" } @akjv2018_dirs)
+          . "Pass the source zip explicitly: perl $0 <src.zip> [<out.zip>]\n";
     }
 }
 
