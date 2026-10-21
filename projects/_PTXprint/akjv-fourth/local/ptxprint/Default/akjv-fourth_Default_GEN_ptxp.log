@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  21 OCT 2026 10:08
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xetex 2026.9.6)  21 OCT 2026 10:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -516,13 +516,72 @@ Baselineskip for p was undefined, now set  to 13.99988pt(13.99988pt)
 \savetopinscol=\box125
 \savetopinschunk=\box126
 \savetopinsnxtpg=\box127
+ [\cat:toc|tc1 ] [\cat:toc|tc2 ] [\cat:toc|tc3 ] [\cat:toc|tc4 ]
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/akjv-fourth_Default_GEN_ptxp_FRT.SFM.adj" found)
 (no picture list "akjv-fourth_Default_GEN_ptxp_FRT.SFM.piclist" found)
  (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.picpages)
 \openout5 = `akjv-fourth_Default_GEN_ptxp.picpages'.
 
 Reading optional file "akjv-fourth_Default_GEN_ptxp.marginnotes"
- (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.marginnotes) (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp_FRT.SFM) ptxfile 01GENakjv-fourth-Default.USFM monoglot,
+ (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.marginnotes) (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp_FRT.SFM pagebreak
+Underfill[A]: [-1] ht=178.40439pt, space=503.99754pt, baseline=13.99988pt
+ [-1
+\openout6 = `akjv-fourth_Default_GEN_ptxp.marginnotes'.
+
+] pagebreak
+Underfill[A]: [-2] ht=232.13329pt, space=503.99754pt, baseline=13.99988pt
+ [-2] starting table cat:toc
+TOC[bibc] col 1 tc1
+\tablecol-1=\box128
+\cell-1=\box129
+\colwidth-1=\dimen156
+TOC[bibc] col 2 tcr2
+\tablecol-2=\box130
+\cell-2=\box131
+\colwidth-2=\dimen157
+
+Overfull \hbox (8.84396pt too wide) in paragraph at lines 21--21
+    
+
+\hbox(7.98604+3.091)x5.61008
+.\glue(\leftskip) 14.45404
+.\penalty 10000
+.\xleaders 0.0 plus 1.0fill
+..\hbox(7.98604+3.091)x3.75002
+...\glue 0.5
+...\font<cat:toc|ldrs-12.0+tc1+tr+ztoc> .
+...\glue 0.5
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 2.0fil
+.\glue(\rightskip) 0.0 plus 1.0fil
+
+
+Overfull \hbox (14.13397pt too wide) in paragraph at lines 21--21
+ \font<cat:toc|ldrs-12.0+tc1+tr+ztoc> G e n   
+
+\hbox(7.98604+3.091)x5.61008, glue set - 1.0
+.\glue(\leftskip) 14.45404
+.\kern -14.45404
+.\font<cat:toc|ldrs-12.0+tc1+tr+ztoc> G
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|ldrs-12.0+tc1+tr+ztoc> e
+.\penalty 10000
+.\glue 0.0 plus 0.04004 minus 0.16003
+.\font<cat:toc|ldrs-12.0+tc1+tr+ztoc> n
+.\penalty 10000
+.\xleaders 0.0 plus 1.0fill
+..\hbox(7.98604+3.091)x3.75002
+...\glue 0.5
+...\font<cat:toc|ldrs-12.0+tc1+tr+ztoc> .
+...\glue 0.5
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 2.0fil
+.\glue(\rightskip) 0.0 plus 1.0fil
+
+pagebreak
+Underfill[A]: [-1] ht=67.07655pt, space=503.99754pt, baseline=13.99988pt
+ [-1]) Blank page for 3 [-2] ptxfile 01GENakjv-fourth-Default.USFM monoglot,
 (no adjustment list "../../../shared/ptxprint/Default/AdjLists/01GENakjv-fourth-Default.USFM.adj" found)
 (no picture list "01GENakjv-fourth-Default.USFM.piclist" found)
  (./01GENakjv-fourth-Default.USFM
@@ -530,10 +589,7 @@ Reading optional file "akjv-fourth_Default_GEN_ptxp.marginnotes"
 
  First chapter for GEN
 Underfill[A]: [1] ht=419.99634pt, space=433.99815pt, baseline=13.99988pt
- [1
-\openout6 = `akjv-fourth_Default_GEN_ptxp.marginnotes'.
-
-] [2]
+ [1] [2]
 Underfill[A]: [3] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [3] [4]
 Underfill[B]: [5] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
@@ -677,20 +733,20 @@ Underfill[A]: [92] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
 Underfill[B]: [92] ht=489.99573pt, space=503.99754pt, baseline=13.99988pt
  [92]
 Underfill[B]: [93] ht=0.0pt, space=27.99976pt, baseline=13.99988pt
- [93] r=> 0/ 1 coverback: 75.06995pt+0.0pt* 0.0pt coverfront: 488.84189pt+0.0pt* 331.10078pt coverwhole: 597.50787pt+0.0pt* 842.20157pt [94]
+ [93] No cover produced, as periphery missing (state: No coverfront (or cover). , No coverback , No coverspine (or spine).)
 \openout0 = `akjv-fourth_Default_GEN_ptxp.delayed'.
 
- (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.parlocs) Elapsed time: 3.15862s (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.notepages) (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.picpages) ) 
+ (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.parlocs) Elapsed time: 3.20775s (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.notepages) (/work/projects/_PTXprint/akjv-fourth/local/ptxprint/Default/akjv-fourth_Default_GEN_ptxp.picpages) ) 
 Here is how much of TeX's memory you used:
- 13342 strings out of 495016
- 199156 string characters out of 12441608
- 495157 words of memory out of 5000000
- 17126 multiletter control sequences out of 15000+600000
- 4858 words of font info for 30 fonts, out of 8000000 for 9000
+ 13416 strings out of 495016
+ 199704 string characters out of 12441608
+ 531331 words of memory out of 5000000
+ 17202 multiletter control sequences out of 15000+600000
+ 4850 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 65521
- 74i,15n,139p,702b,1339s stack positions out of 30000i,1000n,20000p,200000b,200000s
+ 74i,15n,139p,702b,855s stack positions out of 30000i,1000n,20000p,200000b,200000s
 
-Output written on akjv-fourth_Default_GEN_ptxp.xdv (94 pages, 3134156 bytes).
+Output written on akjv-fourth_Default_GEN_ptxp.xdv (97 pages, 3138832 bytes).
 
 XeTeX Log Summary: Info: 4   Warn: 1   Error: 0
 62 underfilled pages: 1, 3, 5, 7, 9, 11-15, 17, 20-23, 25-26, 29-33, 35-44, 46-47, 49-51, 55-59, 61-64, 66, 68-69, 72-73, 75, 77-78, 81, 85-87, 90-93
