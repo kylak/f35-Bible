@@ -1,3 +1,0 @@
-\defTOC{main}{
-\doTOCline{1CO}{1 Corinthians}{}{}{1}
-}

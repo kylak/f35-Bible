@@ -1,3 +1,0 @@
-\defTOC{main}{
-\doTOCline{1TI}{1 Timothy}{}{}{1}
-}
